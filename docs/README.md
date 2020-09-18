@@ -1,10 +1,8 @@
 ---
-home: true
-heroText: IPFS is ...
-tagline: A protocol, a filesystem, the next generation of the web ... for everyone, now! (rotating animation)
-actionText: Get Started →
-actionLink: /guide/
+
 ---
+
+<Hero/>
 
 # About IPFS
 

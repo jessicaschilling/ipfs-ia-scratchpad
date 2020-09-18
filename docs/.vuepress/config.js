@@ -11,7 +11,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    logo: '/assets/img/logo.png',
+    logo: '/assets/img/ipfs-logo.svg',
     search: false,
     nav: [
       { text: 'About IPFS', link: '/scroll/down' },
