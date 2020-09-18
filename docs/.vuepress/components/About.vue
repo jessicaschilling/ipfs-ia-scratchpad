@@ -2,23 +2,23 @@
   <div class="bg-near-white mv4 pa4" id="about">
     <h2 class="tc f2 ma0 bw0">About IPFS</h2>
     <p class="mt3 lh-title f4 fw5">
-      Elevator pitch text goes here and here. It needs to be short because this is a long page.
+      IPFS is many things. It's a protocol and a next-gen web; an <a href="">open-source community</a> and a dedicated <a href="">core team</a>; a cutting-edge technology with a modern <a href="">origin story</a>, but something that intends to be an invisible ingredient in the internet for decades to come.
     </p>
     <p class="mt3 lh-title f4 fw3">
-      Here's some running text. It needs to be short because this is a long page.
+      Want to learn more? Start with this three-minute summary.
     </p>
     <img src="/assets/img/video-placeholder.jpg">
     <p class="mt3 lh-title f4 fw3">
-      Here's some running text. It needs to be short because this is a long page.
+      The IPFS ecosystem is a big project with <a href="">many contributors</a> and <a href="">lots of repos</a>, but here's the stack at its most basic. Hover to explore!
     </p>
     <img src="/assets/img/diagram-placeholder.png" class="w-100">
     <p class="tc lh-title mt4 f4 fw5">
-      CTA intro text goes here and here.
+      Want to dig deeper into how IPFS works? Try these next steps:
     </p>
     <div class="tc mt3">
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="#0">CTA button</a>
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="#0">CTA button</a>
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="#0">CTA button</a>
+      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://proto.school" target="_blank">ProtoSchool</a>
+      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
+      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="#install">Install IPFS</a>
     </div>
   </div>
 </template>

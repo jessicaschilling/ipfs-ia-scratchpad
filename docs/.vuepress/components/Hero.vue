@@ -6,8 +6,8 @@
       <div class="fader absolute w-100">The next-generation web</div>
     </div>
     <div>
-      <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="#0">Why IPFS</a>
-      <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray ml2" href="#0">Get Started</a>
+      <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="#why">Why IPFS</a>
+      <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray ml2" href="#install">Get Started</a>
     </div>
   </div>
 </template>
