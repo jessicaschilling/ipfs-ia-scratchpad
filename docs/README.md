@@ -3,10 +3,7 @@
 ---
 
 <Hero/>
-
-# About IPFS
-
-Hello world
+<About/>
 
 # Why IPFS?
 
