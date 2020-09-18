@@ -14,21 +14,22 @@ module.exports = {
     logo: '/assets/img/ipfs-logo.svg',
     search: false,
     nav: [
-      { text: 'About IPFS', link: '/scroll/down' },
-      { text: 'Why IPFS?', link: '/scroll/down' },
-      { text: 'Who\'s Using IPFS?', link: '/scroll/down' },
+      { text: 'About IPFS', link: '/#about' },
+      { text: 'Why IPFS?', link: '/#why' },
+      { text: 'Who\'s Using IPFS?', link: '/#who' },
       {
         text: 'Docs & resources',
         items: [
           { text: 'Docs', link: 'https://docs.ipfs.io' },
-          { text: 'ProtoSchool', link: 'https://docs.ipfs.io' },
-          { text: 'Community', link: 'https://docs.ipfs.io' },
+          { text: 'ProtoSchool', link: 'https://proto.school' },
+          { text: 'Community', link: 'https://docs.ipfs.io/community' },
           { text: 'Official forums', link: 'https://docs.ipfs.io' },
           { text: 'Repo guide', link: '/does/not/exist' },
-          { text: 'Newsletter', link: '/to/footer' }
+          { text: 'Blog & media', link: '/media' },
+          { text: 'Newsletter', link: '/#newsletter' }
         ]
       },
-      { text: 'INSTALL', link: '/scroll/down' }
+      { text: 'INSTALL', link: '/#install' }
     ]
   }
 }

@@ -1,9 +1,9 @@
 <template>
   <footer class="bt b--light-silver">
-    <div class="mt4 mb3">
+    <div class="mt4 mb3 flex items-center" id="newsletter">
       <label for="newsletter" class="fw6 mr2">Subscribe to the IPFS Weekly newsletter: </label>
       <input type="text" id="newsletter" name="newsletter" placeholder="email@example.net">
-      <button>Subscribe</button>
+      <a class="f6 link dim ph2 pv1 br2 dib white bg-mid-gray ml2" href="#0">Subscribe</a>
     </div>
     <div class="flex items-center mb3 justify-between">
       <div class="flex">
