@@ -1,20 +1,24 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero Title
-tagline: Hero subtitle
+heroText: IPFS is ...
+tagline: A protocol, a filesystem, the next generation of the web ... for everyone, now! (rotating animation)
 actionText: Get Started →
 actionLink: /guide/
-features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: Press | Terms & Privacy | Report security or abuse | Contact | Newsletter subscription | Protocol Labs | Copyright line | Twitter, LinkedIn, YouTube
 ---
 
-# Hello VuePress
+# About IPFS
+
+Hello world
+
+# Why IPFS?
+
+Hello world
+
+# Who's using IPFS?
+
+Hello world
+
+# Install/get started
 
 Hello world
