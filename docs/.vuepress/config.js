@@ -1,6 +1,15 @@
 module.exports = {
   title: 'IPFS',
   description: 'IPFS IA scratchpad',
+  head: [
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"
+      }
+    ]
+  ],
   themeConfig: {
     search: false,
     nav: [

@@ -1,7 +1,7 @@
 <template>
   <footer>
   <hr>
-  Press | Terms & Privacy | Report security or abuse | Contact | Newsletter subscription | Protocol Labs | Copyright line | Twitter, LinkedIn, YouTube
+  <div class="f6">Press | Terms & Privacy | Report security or abuse | Contact | Newsletter subscription | Protocol Labs | Copyright line | Twitter, LinkedIn, YouTube</div>
 
 
   </footer>
