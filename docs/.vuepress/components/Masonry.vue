@@ -25,7 +25,11 @@
       <input type="text" id="newsletter" name="search" class="w-90" placeholder="Search for news, blog posts, events, videos, tutorials">
       <a class="f6 link dim ph2 pv1 br2 dib white bg-mid-gray ml2" href="#0">Search</a>
     </div>
-    <p class="mb4">123 items found filtered by <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml1"><a href="#0">x</a> tag1</span><span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> tag2</span><span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> tag3</span></p>
+    <p class="mb4">123 items filtered by
+    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml1"><a href="#0">x</a> type: news</span>
+    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> type: blog</span>
+    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> type: event</span>
+    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> tag: foo</span></p>
     <div class="fl w-100 w-50-ns ph2">
       <div class="pa1 mb3 bg-gray grow db no-underline white">
         <img class="db w-100" src="/assets/img/blog-casestudy.png">
