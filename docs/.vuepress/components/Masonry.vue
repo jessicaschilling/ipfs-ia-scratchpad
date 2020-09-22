@@ -2,7 +2,7 @@
   <div class="cf">
 
   <div class="bg-near-white mv4 pa4" id="about">
-    <h1 class="tc f2 ma0 bw0">Blog, news &amp; media</h1>
+    <h1 class="tc f2 ma0 bw0">Blog &amp; media</h1>
     <p class="mt3 mb0 lh-title f4 fw5">
       All the up-to-date info you need on IPFS in one place. Blog posts, notable news, IPFS videos, ProtoSchool tutorials, and events.
     </p>

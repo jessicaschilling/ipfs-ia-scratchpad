@@ -2,6 +2,9 @@
   <div class="bg-near-white mv4 pa4" id="install">
     <h2 class="tc f2 ma0 bw0">Get started</h2>
     <p class="mt3 lh-title f4 fw5">
+      No matter what you want to do with IPFS, it's easy to get started.
+    </p>
+    <p class="mt3 lh-title f4">
       Already know what you need? Download and install it here.
     </p>
     <div class=" bg-white pa3 mb3 db">
@@ -22,7 +25,7 @@
         <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="#0">Details</a>
       </div>
     </div>
-    <p class="mt4 lh-title f4 fw5">
+    <p class="mt4 lh-title f4 ">
       Or, if you're not sure which flavor of IPFS is right for you, take this short quiz.
     </p>
     <div class="flex items-center justify-between bg-white pa3 f4">
@@ -36,7 +39,7 @@
       </select>
     </div>
     <p class="tc lh-title mt4 f4 fw5">
-      Not sure what to do next? Explore these resources:
+      What to do next? Explore these resources:
     </p>
     <div class="tc mt3">
       <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
