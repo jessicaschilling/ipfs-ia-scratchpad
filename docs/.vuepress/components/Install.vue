@@ -5,21 +5,21 @@
       No matter what you want to do with IPFS, it’s easy to download and get started right away.
     </p>
 
-    <div class=" bg-white pa3 mb3 db">
+    <div class="mt4 mb3 db">
       <div class="lh-title f4 fw3 mb3">Install the go-ipfs daemon from your terminal:</div>
       <div class="db bg-gray white pa2 code f4">$ fancypackagemanager install ipfs</div>
     </div>
 
-    <div class="bg-white pa3">
-      <p class="mt0 mb3 lh-title f4 fw3">
+    <div>
+      <p class="mt4 mb3 lh-title f4 fw3">
         Or, install one of our easy-to-use apps:
       </p>
       <div class="flex">
-        <div class="bg-near-white w-50 mr3 pa3 tc f4">
+        <div class="bg-white w-50 mr3 pa3 tc f4">
           <div class="lh-title f4 fw3 mb3"><span class="fw5">IPFS Desktop:</span> A full IPFS node plus an easy GUI</div>
           <a class="f5 link dim ba bw1 ph4 pv2 mb2 br2 dib bg-gray b--gray white ml2" href="#modal-desktop">Details</a>
         </div>
-        <div class="bg-near-white w-50 pa3 tc f4">
+        <div class="bg-white w-50 pa3 tc f4">
           <div class="lh-title f4 fw3 mb3"><span class="fw5">IPFS Companion:</span> Use IPFS in your favorite browser</div>
           <a class="f5 link dim ba bw1 ph4 pv2 mb2 br2 dib bg-gray b--gray white ml2" href="#modal-companion">Details</a>
         </div>
@@ -107,11 +107,11 @@
       </div>
     </div>
 
-    <div class="bg-white pa3 mt3">
+    <div class="mt4">
       <p class="mt0 mb3 lh-title f4 fw3">
         Not sure which flavor of IPFS is right for you? Take this short quiz.
       </p>
-      <div class="flex items-center justify-between mt3 f4">
+      <div class="flex items-center bg-white pa3 justify-between mt3 f4">
         <label for="diagnostic">What do you want to do?</label>
         <select name="diagnostic" id="diagnostic">
           <option value="browser">Use IPFS in my browser</option>
