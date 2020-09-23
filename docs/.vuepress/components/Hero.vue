@@ -2,11 +2,11 @@
   <div class="bg-light-gray tc pv5">
     <h1 class="f1 ma0">IPFS is...</h1>
     <div class="f2 mt2 h2 mb5 gray relative">
-      <div class="fader absolute w-100"><div class="tc">A protocol</div></div>
+      <div class="fader absolute w-100"><div class="tc">A protocol and file system</div></div>
       <div class="fader absolute w-100">The next-generation web</div>
     </div>
     <div>
-      <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="#why">Why IPFS</a>
+      <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="#why">Why IPFS?</a>
       <a class="f4 link dim ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray ml2" href="#install">Get Started</a>
     </div>
   </div>

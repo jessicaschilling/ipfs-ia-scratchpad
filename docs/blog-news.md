@@ -1,5 +1,5 @@
 ---
-title: Blog & media
+title: Blog & News
 ---
 
 <Masonry/>

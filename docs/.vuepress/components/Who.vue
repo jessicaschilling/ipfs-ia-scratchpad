@@ -1,6 +1,6 @@
 <template>
   <div class="bg-near-white mv4 pa4" id="who">
-    <h2 class="tc f2 ma0 bw0">Who's using IPFS?</h2>
+    <h2 class="tc f2 ma0 bw0">Who's Using IPFS?</h2>
     <p class="mt3 lh-title f4 fw5">
       Organizations around the globe are already leveraging IPFS to succeed — from small startups to multinational corporations to educational institutions, of all sizes and scales.
     </p>

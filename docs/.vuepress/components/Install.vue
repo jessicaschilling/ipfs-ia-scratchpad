@@ -1,6 +1,6 @@
 <template>
   <div class="bg-near-white mv4 pa4" id="install">
-    <h2 class="tc f2 ma0 bw0">Get started</h2>
+    <h2 class="tc f2 ma0 bw0">Get Started</h2>
     <p class="mt3 lh-title f4 fw5">
       No matter what you want to do with IPFS, it's easy to get started.
     </p>

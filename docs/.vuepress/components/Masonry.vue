@@ -2,14 +2,17 @@
   <div class="cf">
 
   <div class="bg-near-white mv4 pa4" id="about">
-    <h1 class="tc f2 ma0 bw0">Blog &amp; media</h1>
+    <h1 class="tc f2 ma0 bw0">Blog &amp; News</h1>
     <p class="mt3 mb0 lh-title f4 fw5">
       All the up-to-date info you need on IPFS in one place. Blog posts, notable news, IPFS videos, ProtoSchool tutorials, and events.
     </p>
-    <p class="mt2 mb0 lh-title f4 fw5">
+    <p class="mt2 mb0 lh-title f4">
       Is something missing, like your event? <a href="press">Submit it here</a>.
     </p>
-    <p class="mt2 lh-title f4 fw5">
+    <p class="mt2 mb0 lh-title f4">
+      Want the latest in your inbox? Sign up for our <a href="#newsletter">weekly newsletter</a>.
+    </p>
+    <p class="mt2 lh-title f4">
       Member of the media? Download the <a href="press">IPFS press kit</a>.
     </p>
     <div class="flex items-center mt4 mb3 f4">

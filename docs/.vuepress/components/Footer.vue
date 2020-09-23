@@ -7,7 +7,7 @@
     </div>
     <div class="flex items-center mb3 justify-between">
       <div class="flex">
-        <div class="mr4"><a href="/media">Blog &amp; media</a></div>
+        <div class="mr4"><a href="/press">Press</a></div>
         <div class="mr4"><a href="/legal.html#privacy-policy">Privacy</a></div>
         <div class="mr4"><a href="/legal.html#terms-of-service">Terms</a></div>
         <div class="mr4">Report <a href="https://github.com/ipfs/community/blob/master/CONTRIBUTING.md#security-issues" target="_blank">security</a> or <a href="https://github.com/ipfs/community/blob/master/code-of-conduct.md" target="_blank">abuse</a></div>
