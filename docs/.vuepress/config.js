@@ -21,7 +21,7 @@ module.exports = {
         text: 'Docs & Resources',
         items: [
           { text: 'Docs', link: 'https://docs.ipfs.io' },
-          { text: 'Discussion/Support Forums', link: 'https://docs.ipfs.io' },
+          { text: 'Discussion/Support Forum', link: 'https://docs.ipfs.io' },
           { text: 'Community Resources', link: 'https://docs.ipfs.io/community' },
           { text: 'ProtoSchool', link: 'https://proto.school' },
           { text: 'IPFS Repo Directory', link: '/does/not/exist' },

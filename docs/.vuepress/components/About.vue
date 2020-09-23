@@ -7,7 +7,7 @@
     <p class="mt3 lh-title f4 fw3">
       Want to learn more? Start with this three-minute summary.
     </p>
-    <img src="/assets/img/video-placeholder.jpg">
+    <img class="mb3" src="/assets/img/video-placeholder.jpg">
     <p class="mt3 lh-title f4 fw3">
       The IPFS ecosystem is a big project with <a href="">many contributors</a> and <a href="">lots of repos</a>, but here's the stack at its most basic. Hover to explore!
     </p>
