@@ -25,8 +25,17 @@
     </div>
   </div>
     <div class="mt4 mb3 flex items-center">
-      <input type="text" id="newsletter" name="search" class="w-90" placeholder="Search for news, blog posts, events, videos, tutorials">
-      <a class="f6 link dim ph2 pv1 br2 dib white bg-mid-gray ml2" href="#0">Search</a>
+      <select name="type" id="type" class="gray">
+        <option value="browser">Filter by type</option>
+        <option value="files-personal">Blog posts</option>
+        <option value="files-cdn">News coverage</option>
+        <option value="files-bigdata">Videos</option>
+        <option value="build">ProtoSchool tutorials</option>
+        <option value="build">Events</option>
+      </select>
+      <span class="mh2">or</span>
+      <input type="text" id="newsletter" name="search" class="w-90" placeholder="Search for words or tags">
+      <a class="f6 link dim ph2 pv1 br2 dib white bg-mid-gray ml2" href="#0">Go</a>
     </div>
     <p class="mb4">123 items filtered by
     <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml1"><a href="#0">x</a> type: news</span>
@@ -37,8 +46,15 @@
       <div class="pa1 mb3 bg-gray grow db no-underline white">
         <img class="db w-100" src="/assets/img/blog-casestudy.png">
         <p class="pa1 ma0 fw6">
-          <a href="">Blog: Lorem ipsum dolor sit amet</a>
+          <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit. Nunc vitae blandit nisi. Nam pulvinar augue nibh, sit amet varius magna egestas ac.
         </p>
@@ -46,8 +62,15 @@
       <div class="pa1 mb3 bg-gray grow db no-underline white">
         <img class="db w-100" src="/assets/img/blog-weekly.png">
         <p class="pa1 ma0 fw6">
-          <a href="">Blog: Lorem ipsum dolor sit amet</a>
+          <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit. Nunc vitae blandit nisi. Nam pulvinar augue nibh, sit amet varius magna egestas ac.
         </p>
@@ -55,8 +78,15 @@
       <div class="pa1 mb3 bg-gray grow db no-underline white">
         <img class="db w-100" src="/assets/img/blog-contentrouting.png">
         <p class="pa1 ma0 fw6">
-          <a href="">Blog: Lorem ipsum dolor sit amet</a>
+          <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit. Nunc vitae blandit nisi. Nam pulvinar augue nibh, sit amet varius magna egestas ac.
         </p>
@@ -65,36 +95,59 @@
     <div class="fl w-50 w-25-ns ph2">
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
         <img class="db w-100" src="/assets/img/video-placeholder.jpg">
-        <p class="pa1 ma0 fw6">
-          <a href="">Video: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="#modal-video">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
       <div class="pa1 mb3 bg-gray white grow db no-underline">
         <img class="db w-100" src="/assets/img/event-protoschool.jpg"><img class="db w-100" src="/assets/img/event-protoschool.jpg">
-        <p class="pa1 ma0 fw6">
-          <a href="">Event: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">event</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
         <img class="db w-100" src="/assets/img/video-placeholder.jpg">
-        <p class="pa1 ma0 fw6">
-          <a href="">Video: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="#modal-video">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
       <div class="pa1 mb3 bg-gray white grow db no-underline">
         <img class="db w-100" src="/assets/img/tutorial-protoschool.png">
-        <p class="pa1 ma0 fw6">
-          <a href="">Tutorial: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">tutorial</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
@@ -103,36 +156,59 @@
     <div class="fl w-50 w-25-ns ph2">
       <div class="pa1 mb3 bg-gray white grow db no-underline">
         <img class="db w-100" src="/assets/img/tutorial-protoschool.png">
-        <p class="pa1 ma0 fw6">
-          <a href="">Tutorial: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">tutorial</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
         <img class="db w-100" src="/assets/img/video-placeholder.jpg">
-        <p class="pa1 ma0 fw6">
-          <a href="">Video: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="#modal-video">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
       <div class="pa1 mb3 bg-gray white grow db no-underline">
         <img class="db w-100" src="/assets/img/news-example.jpg">
-        <p class="pa1 ma0 fw6">
-          <a href="">News: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">news</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020<br/>CoinTelegraph</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, with lightning bolts.
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
         <img class="db w-100" src="/assets/img/video-placeholder.jpg">
-        <p class="pa1 ma0 fw6">
-          <a href="">Video: Lorem</a>
+        <p class="ph1 pt ma0 fw6">
+          <a href="#modal-video">Lorem sit amet</a>
         </p>
+        <div class="ph1 mb1">
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+        </div>
+        <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, lorem ipsum ipsum.
         </p>
@@ -141,8 +217,48 @@
     <div class="tc cf cb mt4 mb4">
       <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="">Load More</a>
     </div>
+    <div id="modal-video" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
+      <div class="absolute pa4 bg-white">
+        <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
+        <div class="mt3">
+          <img class="db w-100" src="/assets/img/video-placeholder.jpg">
+          <p class="lh-title mb2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit.</p>
+          <p class="lh-title i f6 gray mt0">Published 24 September 2020</p>
+          <div>
+            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">type: <a href="">video</a></span>
+            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">tag: <a href="">foo</a></span>
+            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">tag: <a href="">bar</a></span>
+            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">tag: <a href="">baz</a></span>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <style lang="stylus" scoped>
+.modal-window {
+  background-color: rgba(0, 0, 0, 0.25);
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s;
+  &:target {
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+  }
+  &>div {
+    width: 60vw;
+    max-width:640px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.modal-window div:not(:last-of-type) {
+  margin-bottom: 15px;
+}
+
 </style>
