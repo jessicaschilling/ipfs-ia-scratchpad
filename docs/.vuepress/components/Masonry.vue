@@ -44,7 +44,7 @@
     <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> tag: foo</span></p>
     <div class="fl w-100 w-50-ns ph2">
       <div class="pa1 mb3 bg-gray grow db no-underline white">
-        <img class="db w-100" src="/assets/img/blog-casestudy.png">
+        <a href="/blog-post"><img class="db w-100" src="/assets/img/blog-casestudy.png"></a>
         <p class="pa1 ma0 fw6">
           <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
@@ -60,7 +60,7 @@
         </p>
       </div>
       <div class="pa1 mb3 bg-gray grow db no-underline white">
-        <img class="db w-100" src="/assets/img/blog-weekly.png">
+        <a href="/blog-post"><img class="db w-100" src="/assets/img/blog-weekly.png"></a>
         <p class="pa1 ma0 fw6">
           <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
@@ -76,7 +76,7 @@
         </p>
       </div>
       <div class="pa1 mb3 bg-gray grow db no-underline white">
-        <img class="db w-100" src="/assets/img/blog-contentrouting.png">
+        <a href="/blog-post"><img class="db w-100" src="/assets/img/blog-contentrouting.png"></a>
         <p class="pa1 ma0 fw6">
           <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
@@ -94,7 +94,7 @@
     </div>
     <div class="fl w-50 w-25-ns ph2">
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
-        <img class="db w-100" src="/assets/img/video-placeholder.jpg">
+        <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
         <p class="ph1 pt ma0 fw6">
           <a href="#modal-video">Lorem sit amet</a>
         </p>
@@ -124,7 +124,7 @@
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
-        <img class="db w-100" src="/assets/img/video-placeholder.jpg">
+        <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
         <p class="ph1 pt ma0 fw6">
           <a href="#modal-video">Lorem sit amet</a>
         </p>
@@ -169,7 +169,7 @@
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
-        <img class="db w-100" src="/assets/img/video-placeholder.jpg">
+        <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
         <p class="ph1 pt ma0 fw6">
           <a href="#modal-video">Lorem sit amet</a>
         </p>
@@ -199,7 +199,7 @@
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
-        <img class="db w-100" src="/assets/img/video-placeholder.jpg">
+        <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
         <p class="ph1 pt ma0 fw6">
           <a href="#modal-video">Lorem sit amet</a>
         </p>
@@ -221,7 +221,7 @@
       <div class="absolute pa4 bg-white">
         <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
         <div class="mt3">
-          <img class="db w-100" src="/assets/img/video-placeholder.jpg">
+          <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
           <p class="lh-title mb2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit.</p>
           <p class="lh-title i f6 gray mt0">Published 24 September 2020</p>
           <div>
