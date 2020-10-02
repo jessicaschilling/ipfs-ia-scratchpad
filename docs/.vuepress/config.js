@@ -1,15 +1,6 @@
 module.exports = {
   title: 'IPFS',
-  description: 'IPFS IA scratchpad',
-  head: [
-    [
-      "link",
-      {
-        rel: "stylesheet",
-        href: "https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"
-      }
-    ]
-  ],
+  description: 'IPFS powers the distributed web',
   themeConfig: {
     logo: '/assets/img/ipfs-logo.svg',
     search: false,
