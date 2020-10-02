@@ -30,8 +30,7 @@ module.exports = {
           { text: 'Press Kit', link: '/press' },
           { text: 'Core Team', link: 'https://github.com/ipfs/team-mgmt/blob/master/TEAMS_ROLES_STRUCTURES.md' }
         ]
-      },
-      { text: 'INSTALL', link: '/#install' }
+      }
     ]
   }
 }
