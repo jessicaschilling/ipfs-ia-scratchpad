@@ -1,5 +1,5 @@
 <template>
-  <main class="page">
+  <main class="page sans-serif">
     <Content class="center mw8 pa4 mt4" />
     <Footer />
   </main>

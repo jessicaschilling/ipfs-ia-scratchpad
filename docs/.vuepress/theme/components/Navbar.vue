@@ -1,5 +1,5 @@
 <template>
-  <header class="navbar">
+  <header class="navbar sans-serif">
     <SidebarButton @toggle-sidebar="$emit('toggle-sidebar')" />
 
     <RouterLink
@@ -33,7 +33,7 @@
       <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false" />
       <NavLinks class="can-hide" />
       <div>
-        <a class="ttu fw7 link dim ba bw1 ph3 pv0 ml3 br3 dib white bg-gray ml2" href="/#install">Install</a>
+        <a class="button-primary ttu fw6 link glow o-80 ba ph3 pv0 ml3 br3 dib white bg-teal ml2" href="/#install">Install</a>
       </div>
     </div>
   </header>
@@ -42,12 +42,10 @@
 <script>
 import AlgoliaSearchBox from '@AlgoliaSearchBox'
 import SearchBox from '@SearchBox'
-import SidebarButton from '@theme/components/SidebarButton.vue'
 import NavLinks from '@theme/components/NavLinks.vue'
 export default {
   name: 'Navbar',
   components: {
-    SidebarButton,
     NavLinks,
     SearchBox,
     AlgoliaSearchBox
@@ -99,6 +97,9 @@ $navbar-horizontal-padding = 1.5rem
   line-height $navbarHeight - 1.4rem
   a, span, img
     display inline-block
+  a:hover {
+  text-decoration: none;
+  }
   .logo
     height $navbarHeight - 1.4rem
     min-width $navbarHeight - 1.4rem

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-near-white mv4 pa4">
+  <div class="bg-snow-muted mv4 pa4">
     <h2 class="tc f2 ma0 bw0">Get Started</h2>
     <p class="mt3 lh-title f4 fw5">
       No matter what you want to do with IPFS, it’s easy to download and get started right away.
@@ -7,7 +7,7 @@
 
     <div class="mt4 mb3 db">
       <div class="lh-title f4 fw3 mb3">Install the go-ipfs daemon from your terminal:</div>
-      <div class="db bg-gray white pa2 code f4">$ fancypackagemanager install ipfs</div>
+      <div class="db bg-charcoal-muted white pa2 code f4">$ fancypackagemanager install ipfs</div>
     </div>
 
     <div>
@@ -17,11 +17,11 @@
       <div class="flex">
         <div class="bg-white w-50 mr3 pa3 tc f4">
           <div class="lh-title f4 fw3 mb3"><span class="fw5">IPFS Desktop:</span> A full IPFS node plus an easy GUI</div>
-          <a class="f5 link dim ba bw1 ph4 pv2 mb2 br2 dib bg-gray b--gray white ml2" href="#modal-desktop">Details</a>
+          <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mb2 br2 dib ml2" href="#modal-desktop">Details</a>
         </div>
         <div class="bg-white w-50 pa3 tc f4">
           <div class="lh-title f4 fw3 mb3"><span class="fw5">IPFS Companion:</span> Use IPFS in your favorite browser</div>
-          <a class="f5 link dim ba bw1 ph4 pv2 mb2 br2 dib bg-gray b--gray white ml2" href="#modal-companion">Details</a>
+          <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mb2 br2 dib ml2" href="#modal-companion">Details</a>
         </div>
       </div>
 
@@ -46,7 +46,7 @@
             </ul>
           </div>
           <div>
-            <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray" href="#install">Download</a>
+            <a class="f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray" href="#install">Download</a>
           </div>
           <div class="f6 pt0">21.2MB, Mac OSX. Need a different OS? Visit the <a href="https://github.com/ipfs-shipyard/ipfs-desktop/" target="_blank">GitHub repo</a> or <a href="https://dist.ipfs.io/" target="_blank">dist.ipfs.io</a>.</div>
         </div>
@@ -73,7 +73,7 @@
             </ul>
           </div>
           <div>
-            <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray" href="#install">Download</a>
+            <a class="f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray" href="#install">Download</a>
           </div>
           <div class="f6 pt0">11.2MB, Firefox. Need a different browser? Visit the <a href="https://github.com/ipfs-shipyard/ipfs-companion/" target="_blank">GitHub repo</a> or the <a href="https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch" target="_blank">Chrome</a> or <a href="https://addons.mozilla.org/firefox/addon/ipfs-companion/" target="_blank">Firefox</a> stores.</div>
         </div>
@@ -100,7 +100,7 @@
             </ul>
           </div>
           <div>
-            <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray" href="#install">Download</a>
+            <a class="f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib b--mid-gray white bg-mid-gray" href="#install">Download</a>
           </div>
           <div class="f6 pt0">11.2MB, Firefox. Need a different browser? Visit the <a href="https://cluster.ipfs.io/" target="_blank">IPFS Cluster website</a> or <a href="https://dist.ipfs.io/#ipfs-cluster-ctl" target="_blank">dist.ipfs.io</a>.</div>
         </div>
@@ -126,8 +126,8 @@
       Already installed and need some next steps? Start here:
     </p>
     <div class="tc mt3">
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="https://discuss.ipfs.io" target="_blank">Community Forum</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="https://discuss.ipfs.io" target="_blank">Community Forum</a>
     </div>
   </div>
 </template>

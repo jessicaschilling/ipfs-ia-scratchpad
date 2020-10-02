@@ -1,6 +1,6 @@
 <template>
   <div>
-  <div class="bg-near-white mv4 pa4" id="about">
+  <div class="bg-washed-blue mv4 pa4">
     <h1 class="tc f2 ma0 bw0">Blog, News &amp; More</h1>
     <p class="mt3 mb3 lh-title f4 fw5">
       All the up-to-date info you need on IPFS in one place. Blog posts, notable news coverage, IPFS video highlights, ProtoSchool tutorials, events, and more.
@@ -35,56 +35,56 @@
       </select>
       <span class="mh2">or</span>
       <input type="text" id="newsletter" name="search" class="w-90" placeholder="Search for words or tags">
-      <a class="f6 link dim ph2 pv1 br2 dib white bg-mid-gray ml2" href="#0">Go</a>
+      <a class="f6 link glow o-80 ph2 pv1 br2 dib white bg-mid-gray ml2" href="#0">Go</a>
     </div>
     <p class="mb4">123 items filtered by
-    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml1"><a href="#0">x</a> type: news</span>
-    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> type: blog</span>
-    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> type: event</span>
-    <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> tag: foo</span></p>
+    <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray ml1"><a href="#0">x</a> type: news</span>
+    <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> type: blog</span>
+    <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> type: event</span>
+    <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray ml2"><a href="#0">x</a> tag: foo</span></p>
     <div class="fl w-100 w-50-ns ph2">
-      <div class="pa1 mb3 bg-gray grow db no-underline white">
-        <a href="/blog-post"><img class="db w-100" src="/assets/img/blog-casestudy.png"></a>
+      <div class="pa1 mb3 bg-gray-muted grow db no-underline">
+        <a href="/blog-post"><img class="db w-100 o-60" src="/assets/img/blog-casestudy.png"></a>
         <p class="pa1 ma0 fw6">
           <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit. Nunc vitae blandit nisi. Nam pulvinar augue nibh, sit amet varius magna egestas ac.
         </p>
       </div>
-      <div class="pa1 mb3 bg-gray grow db no-underline white">
-        <a href="/blog-post"><img class="db w-100" src="/assets/img/blog-weekly.png"></a>
+      <div class="pa1 mb3 bg-gray-muted grow db no-underline">
+        <a href="/blog-post"><img class="db w-100 o-60" src="/assets/img/blog-weekly.png"></a>
         <p class="pa1 ma0 fw6">
           <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit. Nunc vitae blandit nisi. Nam pulvinar augue nibh, sit amet varius magna egestas ac.
         </p>
       </div>
-      <div class="pa1 mb3 bg-gray grow db no-underline white">
-        <a href="/blog-post"><img class="db w-100" src="/assets/img/blog-contentrouting.png"></a>
+      <div class="pa1 mb3 bg-gray-muted grow db no-underline">
+        <a href="/blog-post"><img class="db w-100 o-60" src="/assets/img/blog-contentrouting.png"></a>
         <p class="pa1 ma0 fw6">
           <a href="/blog-post">Lorem ipsum dolor sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">blog</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">baz</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
@@ -99,24 +99,24 @@
           <a href="#modal-video">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
-      <div class="pa1 mb3 bg-gray white grow db no-underline">
-        <img class="db w-100" src="/assets/img/event-protoschool.jpg"><img class="db w-100" src="/assets/img/event-protoschool.jpg">
+      <div class="pa1 mb3 bg-washed-blue grow db no-underline">
+        <img class="db w-100 o-60" src="/assets/img/event-protoschool.jpg">
         <p class="ph1 pt ma0 fw6">
           <a href="">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">event</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">event</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
@@ -129,22 +129,22 @@
           <a href="#modal-video">go-ipfs v0.7</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">release</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">release</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
-      <div class="pa1 mb3 bg-gray white grow db no-underline">
+      <div class="pa1 mb3 bg-washed-blue grow db no-underline">
         <img class="db w-100" src="/assets/img/tutorial-protoschool.png">
         <p class="ph1 pt ma0 fw6">
           <a href="">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">tutorial</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">tutorial</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
@@ -153,14 +153,14 @@
       </div>
     </div>
     <div class="fl w-50 w-25-ns ph2">
-      <div class="pa1 mb3 bg-gray white grow db no-underline">
+      <div class="pa1 mb3 bg-washed-blue grow db no-underline">
         <img class="db w-100" src="/assets/img/tutorial-protoschool.png">
         <p class="ph1 pt ma0 fw6">
           <a href="">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">tutorial</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">tutorial</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
@@ -173,24 +173,24 @@
           <a href="#modal-video">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
           Lorem ipsum dolor sit amet.
         </p>
       </div>
-      <div class="pa1 mb3 bg-gray white grow db no-underline">
-        <img class="db w-100" src="/assets/img/news-example.jpg">
+      <div class="pa1 mb3 bg-washed-blue grow db no-underline">
+        <img class="db w-100 o-60" src="/assets/img/news-example.jpg">
         <p class="ph1 pt ma0 fw6">
           <a href="">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">news</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">news</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-light-gray"><a href="">bar</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020<br/>CoinTelegraph</p>
         <p class="pa1 ma0">
@@ -203,9 +203,9 @@
           <a href="#modal-video">Lorem sit amet</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
+          <span class="f7 link glow o-80 ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
@@ -213,8 +213,8 @@
         </p>
       </div>
     </div>
-    <div class="tc cf cb mt4 mb4">
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="">Load More</a>
+    <div class="tc cf cb mb3">
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="">Load More</a>
     </div>
     <div id="modal-video" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
       <div class="absolute pa4 bg-white">
@@ -224,10 +224,10 @@
           <p class="lh-title mb2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit.</p>
           <p class="lh-title i f6 gray mt0">Published 24 September 2020</p>
           <div>
-            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">type: <a href="">video</a></span>
-            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">tag: <a href="">foo</a></span>
-            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">tag: <a href="">bar</a></span>
-            <span class="f6 link dim ph2 pv1 br3 dib bg-light-gray">tag: <a href="">baz</a></span>
+            <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">type: <a href="">video</a></span>
+            <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">foo</a></span>
+            <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">bar</a></span>
+            <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">baz</a></span>
           </div>
         </div>
       </div>

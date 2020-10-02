@@ -16,11 +16,11 @@ Vulputate ultrices quis dapibus est. Curabitur at est sed mi convallis porta qui
 
 Sed sodales aliquet risus id sodales. In vel urna fermentum, rhoncus justo sit amet, pharetra magna. Ut hendrerit, quam non pretium malesuada, felis elit lobortis dolor, non fermentum velit eros et lectus. In euismod consequat lobortis. Nullam risus metus, convallis in neque eu, pretium maximus enim. Pellentesque tempor orci vitae leo consectetur, quis eleifend augue interdum. Sed blandit, orci mattis varius facilisis, lacus est sagittis enim, vitae pellentesque lectus risus a massa. Nulla pretium ut tellus nec porta. Aenean tortor felis, mollis ut pellentesque et, dapibus et turpis. Praesent ultrices tincidunt leo sit amet euismod. Cras scelerisque est a dictum rutrum. Maecenas et eros et arcu egestas ullamcorper.
 
-<div class="bg-near-white pa3 mv4">
+<div class="bg-snow-muted pa3 mv4">
 <h2 class="mt0">Comments</h2>
 <p class="mb0">Thanks for this information. When can we start expecting to lorem ipsum dolor sit amet?</p>
-<p class="lh-title f6 gray mt0 mb4">Firstname Lastname, <a href="">24 September 2020</a></p>
+<p class="lh-title f6 charcoal-muted mt0 mb4">Firstname Lastname, <a href="">24 September 2020</a></p>
 
 <p class="mb0">Great question! Sed sodales aliquet risus id sodales. In vel urna fermentum, rhoncus justo sit amet, pharetra magna. Ut hendrerit, quam non pretium malesuada, felis elit lobortis dolor, non fermentum velit eros et lectus.</p>
-<p class="lh-title f6 gray mt0 mb2">Firstname Lastname, <a href="">24 September 2020</a></p>
+<p class="lh-title f6 charcoal-muted mt0 mb2">Firstname Lastname, <a href="">24 September 2020</a></p>
 </div>

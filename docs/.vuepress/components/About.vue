@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-near-white mv4 pa4">
+  <div class="bg-snow-muted mv4 pa4">
     <h2 class="tc f2 ma0 bw0">About IPFS</h2>
     <p class="mt3 lh-title f4 fw5">
       IPFS (the InterPlanetary File System) is many things. It's a protocol and a next-gen web; an <a href="https://github.com/ipfs/ipfs" target="_blank">open-source community</a> and a dedicated <a href="https://github.com/ipfs/team-mgmt/blob/master/TEAMS_ROLES_STRUCTURES.md" target="_blank">core team</a>; a cutting-edge technology with a modern <a href="https://docs.ipfs.io/project/history/" target="_blank">origin story</a>, but something that intends to be an invisible ingredient in the internet for decades to come.
@@ -16,9 +16,9 @@
       Want to dig deeper into how IPFS works? Try these next steps:
     </p>
     <div class="tc mt3">
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://proto.school" target="_blank">ProtoSchool</a>
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" id="why" href="#install">Install IPFS</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://proto.school" target="_blank">ProtoSchool</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" id="why" href="#install">Install IPFS</a>
     </div>
   </div>
 </template>

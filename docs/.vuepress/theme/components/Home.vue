@@ -1,5 +1,5 @@
 <template>
-  <main class="page">
+  <main class="page sans-serif">
     <Hero />
     <div class="center mw8">
       <About/>

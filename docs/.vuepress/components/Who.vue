@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-near-white mv4 pa4" id="who">
+  <div class="bg-snow-muted mv4 pa4" id="who">
     <h2 class="tc f2 ma0 bw0">Who's Using IPFS?</h2>
     <p class="mt3 lh-title f4 fw5">
       Organizations around the globe are already leveraging IPFS and its active <a href="https://docs.ipfs.io/community/" target="_blank">community</a> — from  startups to multinational corporations to nonprofits and educational institutions, in all industries.
@@ -40,8 +40,8 @@
       Want to dig deeper into who's using IPFS? Start here:
     </p>
     <div class="tc mt3">
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS</a>
-      <a class="f5 link dim ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case Studies</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS</a>
+      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case Studies</a>
     </div>
   </div>
 </template>
