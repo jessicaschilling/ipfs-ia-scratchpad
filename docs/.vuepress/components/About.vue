@@ -2,7 +2,7 @@
   <div class="bg-near-white mv4 pa4" id="about">
     <h2 class="tc f2 ma0 bw0">About IPFS</h2>
     <p class="mt3 lh-title f4 fw5">
-      IPFS is many things. It's a protocol and a next-gen web; an <a href="https://github.com/ipfs/ipfs" target="_blank">open-source community</a> and a dedicated <a href="https://github.com/ipfs/team-mgmt/blob/master/TEAMS_ROLES_STRUCTURES.md" target="_blank">core team</a>; a cutting-edge technology with a modern <a href="https://docs.ipfs.io/project/history/" target="_blank">origin story</a>, but something that intends to be an invisible ingredient in the internet for decades to come.
+      IPFS (the InterPlanetary File System) is many things. It's a protocol and a next-gen web; an <a href="https://github.com/ipfs/ipfs" target="_blank">open-source community</a> and a dedicated <a href="https://github.com/ipfs/team-mgmt/blob/master/TEAMS_ROLES_STRUCTURES.md" target="_blank">core team</a>; a cutting-edge technology with a modern <a href="https://docs.ipfs.io/project/history/" target="_blank">origin story</a>, but something that intends to be an invisible ingredient in the internet for decades to come.
     </p>
     <p class="mt3 lh-title f4 fw3">
       Want to learn more? Start with this three-minute summary.

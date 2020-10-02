@@ -27,11 +27,12 @@
     <div class="mt4 mb3 flex items-center">
       <select name="type" id="type" class="gray">
         <option value="browser">Filter by type</option>
-        <option value="files-personal">Blog posts</option>
-        <option value="files-cdn">News coverage</option>
-        <option value="files-bigdata">Videos</option>
-        <option value="build">ProtoSchool tutorials</option>
-        <option value="build">Events</option>
+        <option value="blog-posts">Blog posts</option>
+        <option value="release-notes">Release notes</option>
+        <option value="news-coverage">News coverage</option>
+        <option value="videos">Videos</option>
+        <option value="tutorials">Tutorials</option>
+        <option value="events">Events</option>
       </select>
       <span class="mh2">or</span>
       <input type="text" id="newsletter" name="search" class="w-90" placeholder="Search for words or tags">
@@ -124,14 +125,13 @@
         </p>
       </div>
       <div class="pa1 mb3 bg-light-gray grow db no-underline">
-        <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
+        <a href="#modal-video"><img class="db w-100" src="/assets/img/release-example.png"></a>
         <p class="ph1 pt ma0 fw6">
-          <a href="#modal-video">Lorem sit amet</a>
+          <a href="#modal-video">go-ipfs v0.7</a>
         </p>
         <div class="ph1 mb1">
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">video</a></span>
+          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">release</a></span>
           <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">foo</a></span>
-          <span class="f7 link dim ph2 pv1 br2 dib bg-white"><a href="">bar</a></span>
         </div>
         <p class="ml1 i f7 mv0">XX Month 2020</p>
         <p class="pa1 ma0">
