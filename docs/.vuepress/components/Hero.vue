@@ -2,7 +2,7 @@
   <div class="bg-light-gray tc pv5">
     <h1 class="f1 ma0">IPFS is...</h1>
     <div class="f2 mt2 h2 mb5 gray relative">
-      <div class="fader absolute w-100"><div class="tc">A protocol and file system</div></div>
+      <div class="fader absolute w-100"><div class="tc">Decentralized file storage</div></div>
       <div class="fader absolute w-100">The next-generation web</div>
     </div>
     <div>
