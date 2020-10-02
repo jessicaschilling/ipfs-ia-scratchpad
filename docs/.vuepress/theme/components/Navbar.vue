@@ -100,6 +100,13 @@ $navbar-horizontal-padding = 1.5rem
   a:hover {
   text-decoration: none;
   }
+  .nav-item > a:hover, .nav-item > a:not(.external).router-link-active {
+      margin-bottom: -2px;
+      border-bottom: 2px solid #378085;
+  }
+  .dropdown-wrapper .nav-dropdown .dropdown-item a:hover {
+    color: #378085;
+  }
   .logo
     height $navbarHeight - 1.4rem
     min-width $navbarHeight - 1.4rem
