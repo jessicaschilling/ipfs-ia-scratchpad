@@ -1,5 +1,7 @@
 ---
-title: InterPlanetary File System
+title: IPFS | InterPlanetary File System
 home: true
 ---
-Foo foo foo, bar bar bar
+#IPFS IA scratchpad
+
+This repo is a barebones VuePress instance designed for rapid prototyping and user testing on information architecture improvements to the ipfs.io website.

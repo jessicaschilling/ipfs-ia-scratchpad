@@ -12,5 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.4"
+  },
+  "dependencies": {
+    "ipfs-css": "^1.2.0",
+    "tachyons": "^4.12.0"
   }
 }
