@@ -13,7 +13,7 @@
       </div>
       <div class="flex items-center mb4 mt3 justify-between">
         <div class="flex">
-          <div class="mr4"><a href="/press">Press resources</a></div>
+          <div class="mr4"><a href="/press">Press kit</a></div>
           <div class="mr4"><a href="https://github.com/ipfs/community/blob/master/code-of-conduct.md" target="_blank">Code of conduct</a></div>
           <div class="mr4"><a href="https://github.com/ipfs/community/blob/master/CONTRIBUTING.md#security-issues" target="_blank">Security</a></div>
         </div>

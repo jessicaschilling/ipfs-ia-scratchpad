@@ -1,7 +1,5 @@
 <template>
-  <div class="mt4 bb bw1 b--light-gray">
-    <img src="/assets/img/blog-weekly.png" class="w-100 o-50">
-    <h1 class="f2 mb3">IPFS Weekly #123: Lorem ipsum dolor sit</h1>
+  <div class="bb bw1 b--light-gray">
     <p class="lh-title f5 charcoal-muted mt0 mb1"><a href="">Firstname Lastname</a> and <a href="">Firstname Lastname</a></p>
     <p class="lh-title f5 charcoal-muted mt0 mb2">24 September 2020</p>
     <div class="mb3">
