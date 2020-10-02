@@ -55,5 +55,3 @@ All IPFS-related news can be found on our <a href="blog-news.html">Blog & News</
 - <a href="#">Events</a>
 
 Additionally, you can get up-to-the minute updates on our <a href="https://twitter.com/ipfs" target="_blank">Twitter</a> and <a href="https://www.youtube.com/channel/UCdjsUXJ3QawK4O5L1kqqsew" target="_blank">YouTube</a> channels.
-
-<Footer/>

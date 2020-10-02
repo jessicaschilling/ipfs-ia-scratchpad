@@ -1,6 +1,5 @@
 <template>
-  <div class="cf">
-
+  <div>
   <div class="bg-near-white mv4 pa4" id="about">
     <h1 class="tc f2 ma0 bw0">Blog, News &amp; More</h1>
     <p class="mt3 mb3 lh-title f4 fw5">

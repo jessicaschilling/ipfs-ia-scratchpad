@@ -24,5 +24,3 @@ Sed sodales aliquet risus id sodales. In vel urna fermentum, rhoncus justo sit a
 <p class="mb0">Great question! Sed sodales aliquet risus id sodales. In vel urna fermentum, rhoncus justo sit amet, pharetra magna. Ut hendrerit, quam non pretium malesuada, felis elit lobortis dolor, non fermentum velit eros et lectus.</p>
 <p class="lh-title f6 gray mt0 mb2">Firstname Lastname, <a href="">24 September 2020</a></p>
 </div>
-
-<Footer/>

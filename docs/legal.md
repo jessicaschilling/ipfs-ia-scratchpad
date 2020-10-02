@@ -130,6 +130,3 @@ Your DMCA Counter Notification must include all of the following information:
 
 ### What happens after sending the DMCA Counter Notification?
 If we receive valid DMCA Counter Notification that meets the above criteria, we will forward a copy to the person who filed the original DMCA Notice. If we do not receive notice within 10 business days that the person who submitted the DMCA Notice is seeking a court order to prevent the infringement of the content at issue, we will replace or re-enable access to the content that was removed.
-
-
-<Footer/>

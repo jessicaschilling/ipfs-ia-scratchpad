@@ -1,5 +1,5 @@
-<Hero/>
-<About/>
-<Why/>
-<Who/>
-<Install/>
+---
+title: InterPlanetary File System
+home: true
+---
+Foo foo foo, bar bar bar

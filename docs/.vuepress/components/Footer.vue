@@ -4,11 +4,11 @@
       <div class="flex items-center justify-between mb2" id="newsletter">
         <div class="fw6 mr2 w-60">
           <h2 class="bw0 f4 mv0">Stay informed</h2>
-          <p class="lh-title mt0 fw4">Sign up for the IPFS Weekly newsletter (<a href="/blog-news">archive</a>) for the latest on releases, upcoming developments, community news, and more.</p>
+          <p class="lh-title mt0 fw4">Sign up for the IPFS Weekly newsletter (<a href="/blog-post">example</a>) for the latest on releases, upcoming developments, community news, and more.</p>
         </div>
         <div class="w-40 tr">
-          <input type="text" class="w-70" id="newsletter" name="newsletter" placeholder="email@example.net">
-          <a class="f6 link dim ph2 pv1 br2 dib white bg-mid-gray ml2" href="https://docs.google.com/document/d/1ni0kQNTLJ8VcpCu-zvpyWceZ3qbZWTJSJVRLCsOxvbY/edit#" target="_blank">Subscribe</a>
+          <input type="text" class="w-70 pa1" id="newsletter" name="newsletter" placeholder="email@your.domain">
+          <a class="f6 link dim ph3 pv2 br2 dib white bg-gray ml2" href="https://docs.google.com/document/d/1ni0kQNTLJ8VcpCu-zvpyWceZ3qbZWTJSJVRLCsOxvbY/edit#" target="_blank">Subscribe</a>
         </div>
       </div>
       <div class="flex items-center mb4 mt3 justify-between">

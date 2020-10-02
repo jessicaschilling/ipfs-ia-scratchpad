@@ -1,6 +1,6 @@
 <template>
   <main class="page">
-    <Content class="theme-default-content" />
+    <Content class="center mw8 pa4 mt4" />
     <Footer />
   </main>
 </template>
