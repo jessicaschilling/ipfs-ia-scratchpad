@@ -3,4 +3,3 @@
 <Why/>
 <Who/>
 <Install/>
-<Footer/>
