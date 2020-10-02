@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-near-white mv4 pa4" id="install">
+  <div class="bg-near-white mv4 pa4">
     <h2 class="tc f2 ma0 bw0">Get Started</h2>
     <p class="mt3 lh-title f4 fw5">
       No matter what you want to do with IPFS, it’s easy to download and get started right away.
