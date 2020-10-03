@@ -2,20 +2,20 @@
   <div class="bg-snow-muted mv4 pa4">
 
   <div class="center mw8 mv5">
-    <h2 class="tc f2 ma0 bw0 montserrat">Why IPFS?</h2>
+    <h2 class="f1 ma0 pb3 bw0">Why IPFS?</h2>
     <p class="mt3 lh-title f3 fw4">
-      IPFS is helpful for everyone building or just using tools and services on the web. With baked-in proof of authenticity, censorship and disaster resilience, and easy integration with both today's web and new tech like blockchains, organizations in every industry and around the globe are already leveraging IPFS and its active <a href="https://docs.ipfs.io/community/" target="_blank">community</a>.
+      IPFS isn't just for storing and sharing files. With baked-in proof of authenticity, censorship and disaster resilience, and easy integration with both today's web and tomorrow's tech, organizations in industries around the globe are leveraging IPFS and its active <a href="https://docs.ipfs.io/community/" target="_blank">community</a>.
     </p>
-    <div class="flex mb4">
-      <div class="bg-white w-40 mr2 pa3 tc f4">
+    <div class="flex mt4 mb5">
+      <div class="bg-white w-40 mr4 pa4 tc f4">
         <div class="fw5 f2">116K+</div>
         <div>Unique network nodes</div>
       </div>
-      <div class="bg-white w-40 mr2 pa3 tc f4">
+      <div class="bg-white w-40 mr4 pa4 tc f4">
         <div class="fw5 f2">123</div>
         <div>Number of collabs</div>
       </div>
-      <div class="bg-white w-40 mr2 pa3 tc f4">
+      <div class="bg-white w-40 pa4 tc f4">
         <div class="fw5 f2">123</div>
         <div>Collab benefit realized</div>
       </div>
@@ -24,11 +24,11 @@
       This two-minute video shows who can benefit from IPFS (including some of our big-name collabs), and how.
     </p>
     <img src="/assets/img/video-placeholder.jpg">
-    <p class="mt4 lh-title f4 mb1">
+    <p class="mt5 lh-title f4 mb1">
       Hover and click to explore the IPFS user ecosystem by category, size, product/service type, and focus.
     </p>
     <img src="/assets/img/diagram-ecosystem.png">
-    <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt4">
+    <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt5">
       <h3 class="f3 ma0 pa0">
         Learn more about why
       </h3>

@@ -1,8 +1,8 @@
 <template>
   <div class="center mw8 mv5 pb3">
-    <h2 class="tc f2 ma0 bw0">Get started</h2>
+    <h2 class="f1 ma0 pb3 bw0">Install IPFS</h2>
     <p class="mt3 lh-title f3 fw4">
-      No matter what you want to do with IPFS, it’s easy to download and get started right away.
+      No matter what you want to do with IPFS, it’s easy to get started right away.
     </p>
 
     <div class="mt4 mb3 db">
