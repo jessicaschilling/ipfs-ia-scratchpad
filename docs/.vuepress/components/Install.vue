@@ -1,5 +1,5 @@
 <template>
-  <div class="center mw8 mv5">
+  <div class="center mw8 mv5 pb3">
     <h2 class="tc f2 ma0 bw0">Get started</h2>
     <p class="mt3 lh-title f3 fw4">
       No matter what you want to do with IPFS, it’s easy to download and get started right away.
@@ -122,12 +122,24 @@
         </select>
       </div>
     </div>
-    <p class="tc lh-title mt4 f4 fw5">
-      Already installed and need some next steps? Start here:
-    </p>
-    <div class="tc mt3">
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="https://discuss.ipfs.io" target="_blank">Community Forum</a>
+    <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt5">
+      <h3 class="f3 ma0 pa0">
+        After you install
+      </h3>
+      <div class="flex mt2 justify-between">
+        <div class="w-33 mr4">
+          <p>Check out how-tos and tutorials in the IPFS docs.</p>
+          <a class="fw7" href="https://docs.ipfs.io/how-to/" target="_blank">See the how-tos&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+        <div class="w-33 mr4">
+          <p>Ask questions and get community support in the official forum.</p>
+          <a class="fw7" href="https://discuss.ipfs.io" target="_blank">Start a conversation&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+        <div class="w-33">
+          <p>Watch this video series demystifying core IPFS concepts.</p>
+          <a class="fw7" href="https://www.youtube.com/playlist?list=PLuhRWgmPaHtSsHMhjeWpfOzr8tonPaePu" target="_blank">View the playlist&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+      </div>
     </div>
   </div>
 </template>

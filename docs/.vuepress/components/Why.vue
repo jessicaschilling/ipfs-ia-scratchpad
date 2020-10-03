@@ -28,13 +28,24 @@
       Hover and click to explore the IPFS user ecosystem by category, size, product/service type, and focus.
     </p>
     <img src="/assets/img/diagram-ecosystem.png">
-    <p class="tc lh-title mt4 f4 fw5">
-      Check out how others have integrated IPFS and learn how it works with common tech. Start here:
-    </p>
-    <div class="tc mt3">
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr3" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Use Cases &amp; Case Studies</a>
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS</a>
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" href="#0" id="install">IPFS + Blockchain</a>
+    <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt4">
+      <h3 class="f3 ma0 pa0">
+        Learn more about why
+      </h3>
+      <div class="flex mt2 justify-between">
+        <div class="w-33 mr4">
+          <p>See how others like you have successfully leveraged IPFS.</p>
+          <a class="fw7" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case studies &amp; use cases&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+        <div class="w-33 mr4">
+          <p>Get inspired by a world of IPFS apps, tools, and datasets.</p>
+          <a class="fw7" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+        <div class="w-33">
+          <p>Learn how IPFS integrates with common Web3 tech like Ethereum.</p>
+          <a class="fw7" href="/does/not/exist" id="install">IPFS + Web3&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+      </div>
     </div>
   </div>
 

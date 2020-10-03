@@ -12,13 +12,24 @@
       The IPFS ecosystem is a big project with <a href="">many contributors</a> and <a href="">lots of repos</a>, but here's the stack at its most basic. Hover to explore!
     </p>
     <img src="/assets/img/diagram-placeholder.png" class="w-100">
-    <p class="tc lh-title mt4 f4 fw5">
-      Want to dig deeper into how IPFS works? Try these next steps:
-    </p>
-    <div class="tc mt3">
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mr2" href="https://proto.school" target="_blank">ProtoSchool</a>
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray mh2" href="https://docs.ipfs.io" target="_blank">IPFS Docs</a>
-      <a class="button-secondary f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib dark-gray ml2" id="why" href="#install">Install IPFS</a>
+    <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt4">
+      <h3 class="f3 ma0 pa0">
+        Dig deeper
+      </h3>
+      <div class="flex mt2 justify-between">
+        <div class="w-33 mr4">
+          <p>Try all-levels, interactive tutorials on a variety of distributed-web topics.</p>
+          <a class="fw7" href="https://proto.school/tutorials?course=ipfs" target="_blank">Visit ProtoSchool&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+        <div class="w-33 mr4">
+          <p>Find answers, examples, and how-tos in the IPFS documentation.</p>
+          <a class="fw7" href="https://docs.ipfs.io" target="_blank">Read the docs&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+        <div class="w-33">
+          <p>Just want to install and explore? Get started here.</p>
+          <a class="fw7" id="why" href="#install">Install IPFS&nbsp;&nbsp;&gt;&gt;</a>
+        </div>
+      </div>
     </div>
   </div>
 </template>

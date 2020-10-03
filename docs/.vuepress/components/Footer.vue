@@ -4,7 +4,7 @@
       <div class="flex items-center justify-between mb2" id="newsletter">
         <div class="fw6 mr2 w-60">
           <h2 class="bw0 f4 mv0 montserrat fw6">Stay informed</h2>
-          <p class="lh-title mt0 fw4">Sign up for the IPFS Weekly newsletter (<a href="/blog-post">example</a>) for the latest on releases, upcoming developments, community events, and more.</p>
+          <p class="mt1 fw4">Sign up for the IPFS Weekly newsletter (<a href="/blog-post">example</a>) for the latest on releases, upcoming developments, community events, and more.</p>
         </div>
         <div class="w-40 tr">
           <input type="text" class="w-70 pa1" id="newsletter" name="newsletter" placeholder="email@your.domain">
