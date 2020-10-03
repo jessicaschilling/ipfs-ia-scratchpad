@@ -25,7 +25,7 @@
     </p>
     <img src="/assets/img/video-placeholder.jpg">
     <p class="mt5 lh-title f4 mb1">
-      Hover and click to explore the IPFS user ecosystem by category, size, product/service type, and focus.
+      Click to explore who's building on IPFS, their industries and the types of things they're creating, and the tool sets they're using in conjunction with IPFS.
     </p>
     <img src="/assets/img/diagram-ecosystem.png">
     <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt5">
@@ -38,7 +38,7 @@
           <a class="fw7" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case studies &amp; use cases&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33 mr4">
-          <p>Get inspired by a world of IPFS apps, tools, and datasets.</p>
+          <p>Get inspired by this showcase of IPFS apps, tools, and datasets.</p>
           <a class="fw7" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33">
