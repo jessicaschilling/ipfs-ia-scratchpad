@@ -1,6 +1,6 @@
 <template>
   <div class="bg-washed-blue pa3 mt4">
-    <a href="">< Back to Blog &amp; News</a>
+    <a href="/blog-news">&lt; Back to Blog &amp; News</a>
   </div>
 </template>
 

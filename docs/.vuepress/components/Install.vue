@@ -1,26 +1,26 @@
 <template>
-  <div class="bg-snow-muted mv4 pa4">
-    <h2 class="tc f2 ma0 bw0">Get Started</h2>
-    <p class="mt3 lh-title f4 fw5">
+  <div class="center mw8 mv5">
+    <h2 class="tc f2 ma0 bw0">Get started</h2>
+    <p class="mt3 lh-title f3 fw4">
       No matter what you want to do with IPFS, it’s easy to download and get started right away.
     </p>
 
     <div class="mt4 mb3 db">
-      <div class="lh-title f4 fw3 mb3">Install the go-ipfs daemon from your terminal:</div>
+      <div class="lh-title f4 mb3">Install the go-ipfs daemon from your terminal:</div>
       <div class="db bg-charcoal-muted white pa2 code f4">$ fancypackagemanager install ipfs</div>
     </div>
 
     <div>
-      <p class="mt4 mb3 lh-title f4 fw3">
+      <p class="mt4 mb3 lh-title f4">
         Or, install one of our easy-to-use apps:
       </p>
       <div class="flex">
-        <div class="bg-white w-50 mr3 pa3 tc f4">
-          <div class="lh-title f4 fw3 mb3"><span class="fw5">IPFS Desktop:</span> A full IPFS node plus an easy GUI</div>
+        <div class="bg-snow-muted w-50 mr3 pa3 tc f4">
+          <div class="lh-title f4 mb3"><span class="fw5">IPFS Desktop:</span> A full IPFS node plus an easy GUI</div>
           <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mb2 br2 dib ml2" href="#modal-desktop">Details</a>
         </div>
-        <div class="bg-white w-50 pa3 tc f4">
-          <div class="lh-title f4 fw3 mb3"><span class="fw5">IPFS Companion:</span> Use IPFS in your favorite browser</div>
+        <div class="bg-snow-muted w-50 pa3 tc f4">
+          <div class="lh-title f4 mb3"><span class="fw5">IPFS Companion:</span> Use IPFS in your favorite browser</div>
           <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mb2 br2 dib ml2" href="#modal-companion">Details</a>
         </div>
       </div>
@@ -108,10 +108,10 @@
     </div>
 
     <div class="mt4">
-      <p class="mt0 mb3 lh-title f4 fw3">
+      <p class="mt0 mb3 lh-title f4">
         Not sure which flavor of IPFS is right for you? Take this short quiz.
       </p>
-      <div class="flex items-center bg-white pa3 justify-between mt3 f4">
+      <div class="flex items-center bg-snow-muted pa3 justify-between mt3 f4">
         <label for="diagnostic">What do you want to do?</label>
         <select name="diagnostic" id="diagnostic">
           <option value="browser">Use IPFS in my browser</option>
