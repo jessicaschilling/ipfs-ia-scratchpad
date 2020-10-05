@@ -2,7 +2,7 @@
   <div class="center mw8 mv5">
     <h2 class="f1 ma0 pb3 bw0">About IPFS</h2>
     <p class="mt3 lh-title f3 fw4">
-      <span class="fw6">The InterPlanetary File System is many things.</span> It's a protocol for storing and providing data without relying on big corporations. It's the underpinning of <a href="https://filecoin.io" target="_blank">Filecoin</a>. It's a cutting-edge technology with a modern <a href="https://docs.ipfs.io/project/history/" target="_blank">origin story</a> and a worldwide <a href="https://github.com/ipfs/ipfs" target="_blank">open-source community</a>. But at its heart, it's here to make the web better for generations to come.
+      <span class="fw6">The InterPlanetary File System is many things.</span> It's an <a href="https://github.com/ipfs/ipfs">open-source</a> protocol for storing and serving data without relying on big corporations. It's a critical ingredient in <a href="/does/not/exist" id="install">apps and services</a> making the internet fast, offline-tolerant, and archivally minded. It's at the core of <a href="https://filecoin.io" target="_blank">Filecoin</a>. But at its heart, IPFS is here to make the web better for generations to come.
     </p>
     <div class="flex mt5 mb5">
       <div class="mr4 w-40">
