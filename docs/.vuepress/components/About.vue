@@ -9,9 +9,10 @@
         <h3 class="f3 ma0 pa0">
         Get the basics
         </h3>
-        <p class="lh-title f4">
+        <p class="lh-title f4 mb1">
           This three-minute summary explains what IPFS is, the essentials of how it works, and how it has the potential to revolutionize the web.
         </p>
+        <p class="lh-title mt0 f6"><a href="https://docs.ipfs.io" target="_blank">Read the transcript</a></p>
       </div>
       <img class="w-60" src="/assets/img/video-placeholder.jpg">
     </div>

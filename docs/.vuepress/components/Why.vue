@@ -25,9 +25,10 @@
         <h3 class="f3 ma0 pa0">
         Real-world impact
         </h3>
-        <p class="lh-title f4">
+        <p class="lh-title f4 mb1">
           Get a two-minute overview of how IPFS can directly benefit some of the future's most vital industries &mdash; and meet some of the makers who are already realizing impact at a global scale.
         </p>
+        <p class="lh-title mt0 f6"><a href="https://docs.ipfs.io" target="_blank">Read the transcript</a></p>
       </div>
       <img class="w-60" src="/assets/img/video-placeholder.jpg">
     </div>
