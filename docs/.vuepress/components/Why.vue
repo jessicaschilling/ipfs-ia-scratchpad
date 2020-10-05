@@ -30,7 +30,7 @@
     <img src="/assets/img/diagram-ecosystem.png">
     <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt5">
       <h3 class="f3 ma0 pa0">
-        Learn more about why
+        Learn more
       </h3>
       <div class="flex mt2 justify-between">
         <div class="w-33 mr4">
