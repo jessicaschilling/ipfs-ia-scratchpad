@@ -21,68 +21,69 @@
       <div class="flex">
         <div class="w-50 mr3">
           <h4 class="ma0">IPFS Desktop</h4>
-          <p class="ma0 lh-title f5 mv2">Browse, add, and share files in an easy desktop app</p>
-          <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#modal-desktop">Details &amp; Download</a>
+          <p class="ma0 lh-title f5 mv2">Browse, add, and share files in an easy desktop app.</p>
+          <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#download-desktop">Details &amp; Download</a>
         </div>
         <div class="w-50">
           <h4 class="ma0">IPFS Companion</h4>
-          <p class="ma0 lh-title f5 mv2">Load, import, and share IPFS files straight from your browser</p>
-          <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#modal-companion">Details &amp; Download</a>
+          <p class="ma0 lh-title f5 mv2">Load, import, and share IPFS files straight from your browser.</p>
+          <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#download-companion">Details &amp; Download</a>
         </div>
       </div>
     </div>
 
-    <div id="modal-desktop" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
+    <div id="download-desktop" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
       <div class="absolute pa4 bg-white">
-        <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
+        <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f3 montserrat">X</a>
         <h1 class="mv2 f2">IPFS Desktop</h1>
         <div>
-          <p class="fw6 lh-title">You don't need the command line to run an IPFS node. Just install IPFS Desktop and have all the power of IPFS in your hands.</p>
-          <p class="mv0 pv0 fw6 lh-title">Features:</p>
-          <ul class="mv2 pv0">
-            <li>Easy GUI with all the background power of go-ipfs</li>
-            <li>Start/stop the daemon from your menubar</li>
-            <li>Easily support <span class="bg-light-gray pa1 code">ipfs://</span>, <span class="bg-light-gray pa1 code">ipns://</span> and <span class="bg-light-gray pa1 code">dweb:</span> links</li>
-            <li>CLI Tutor Mode makes it easy to learn IPFS commands as you go</li>
+          <p class="fw6 lh-title">A complete IPFS node plus a simple-to-use file browser for adding, viewing, and sharing items, IPFS Desktop gives you all the power of IPFS in an easy desktop app.</p>
+          <h2 class="mv0 pv0 f4 bn">Features</h2>
+          <ul class="mv2 pv0 lh-title">
+            <li class="mb1">File browser lets you add, move, view, share, and pin files</li>
+            <li class="mb1">Peer visualizer gives you info on connected nodes worldwide</li>
+            <li class="mb1">Start IPFS and other common commands straight from your menubar</li>
+            <li class="mb1">Learn IPFS commands as you go with an optional CLI Tutor Mode</li>
           </ul>
-          <p class="mb0 pb0 fw6 lh-title">Great for:</p>
-          <ul class="mt2 mb4 pt0">
-            <li>Exploring and getting acquainted with IPFS</li>
-            <li>Transitioning to command-line IPFS</li>
-            <li>Anyone who wants an easy GUI for interacting with IPFS files</li>
+          <h2 class="mb0 pv0 f4 bn">Great for</h2>
+          <ul class="mv2 pv0 lh-title">
+            <li class="mb1">Exploring and getting acquainted with IPFS</li>
+            <li class="mb1">Storing and sharing files without needing terminal commands</li>
+            <li class="mb1">Easy menubar access to IPFS — useful for devs and power users, too</li>
           </ul>
         </div>
         <div>
-          <a class="button-primary bg-teal f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib" href="#install">Download</a>
+          <a class="button-primary bg-teal f5 link glow o-80 ba bw1 ph4 pv3 mt2 mb1 br2 dib" href="#install">Download</a>
         </div>
-        <div class="f6 pt0">21.2MB, Mac OSX. Need a different OS? Visit the <a href="https://github.com/ipfs-shipyard/ipfs-desktop/" target="_blank">GitHub repo</a> or <a href="https://dist.ipfs.io/" target="_blank">dist.ipfs.io</a>.</div>
+        <div class="f6 pt0 charcoal-muted">21.2MB, Mac OSX. Need a different OS? <a href="https://github.com/ipfs-shipyard/ipfs-desktop/#install" target="_blank">View all</a></div>
       </div>
     </div>
 
-    <div id="modal-companion" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
+    <div id="download-companion" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
       <div class="absolute pa4 bg-white">
-        <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
+        <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f3 montserrat">X</a>
         <h1 class="mv2 f2">IPFS Companion</h1>
         <div>
           <p class="fw6 lh-title">Harness the power of your locally running IPFS node directly inside your browser.</p>
-          <p class="mv0 pv0 fw6 lh-title">Features:</p>
-          <ul class="mv2 pv0">
-            <li>Automatically detect and redirect IPFS resources</li>
-            <li>Access frequently-used IPFS actions right from your browser bar</li>
-            <li>Enable and disable IPFS features on a per-website basis</li>
-            <li>Import and pin items to your local IPFS node directly from your browser</li>
+          <h2 class="mv0 pv0 f4 bn">Features</h2>
+          <ul class="mv2 pv0 lh-title">
+            <li class="mb1">Automatically detect and redirect IPFS resources</li>
+            <li class="mb1">Easily support <span class="bg-light-gray pa1 code">ipfs://</span>, <span class="bg-light-gray pa1 code">ipns://</span> and <span class="bg-light-gray pa1 code">dweb:</span> addresses and links</li>
+            <li class="mb1">Access frequently-used IPFS actions right from your browser bar</li>
+            <li class="mb1">Enable and disable IPFS features on a per-website basis</li>
+            <li class="mb1">Import and pin items to your local IPFS node directly from your browser</li>
           </ul>
-          <p class="mb0 pb0 fw6 lh-title">Great for:</p>
-          <ul class="mt2 mb4 pt0">
-            <li>Making the most of IPFS features and functions in your favorite browser</li>
-            <li>Easy access to your node on the fly</li>
-            <li>Expanding your IPFS developer workflow to the browser</li>
+          <h2 class="mb0 pv0 f4 bn">Great for</h2>
+          <ul class="mv2 pv0 lh-title">
+            <li class="mb1">Making the most of IPFS features and functions in your favorite browser</li>
+            <li class="mb1">Easy access to your node on the fly</li>
+            <li class="mb1">Expanding your IPFS developer workflow to the browser</li>
           </ul>
         </div>
         <div>
-          <a class="button-primary bg-teal f5 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib" href="#install">Download</a>
+          <a class="button-primary bg-teal f5 link glow o-80 ba bw1 ph4 pv3 mt2 mb1 br2 dib" href="#install">Download</a>
         </div>
-        <div class="f6 pt0">11.2MB, Firefox. Need a different browser? Visit the <a href="https://github.com/ipfs-shipyard/ipfs-companion/" target="_blank">GitHub repo</a> or the <a href="https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch" target="_blank">Chrome</a> or <a href="https://addons.mozilla.org/firefox/addon/ipfs-companion/" target="_blank">Firefox</a> stores.</div>
+        <div class="f6 pt0 charcoal-muted">11.2MB, Firefox. Need a different browser? Visit the <a href="https://github.com/ipfs-shipyard/ipfs-companion/" target="_blank">GitHub repo</a> or the <a href="https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch" target="_blank">Chrome</a> or <a href="https://addons.mozilla.org/firefox/addon/ipfs-companion/" target="_blank">Firefox</a> stores.</div>
       </div>
     </div>
 
@@ -94,7 +95,7 @@
       <div class="flex items-center mt3">
         <label class="mr3" for="diagnostic">What do you want to do?</label>
         <select name="diagnostic" id="diagnostic" class="pa1 pr2 mr2">
-          <option value="go-ipfs">Integrate IPFS with your Go app or service</option>
+          <option value="go-ipfs">Integrate IPFS with a Go app or service</option>
           <option value="js-ipfs">Use IPFS with JavaScript for web apps</option>
           <option value="ipfs-cluster">Use IPFS Cluster to orchestrate many nodes</option>
           <option value="pinning-service">Store and serve files using a pinning service</option>
