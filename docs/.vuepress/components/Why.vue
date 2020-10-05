@@ -34,15 +34,15 @@
       </h3>
       <div class="flex mt2 justify-between">
         <div class="w-33 mr4">
-          <p>See how others like you have successfully leveraged IPFS.</p>
+          <p class="lh-title">See how others like you have successfully leveraged IPFS.</p>
           <a class="fw7" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case studies &amp; use cases&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33 mr4">
-          <p>Get inspired by this showcase of IPFS apps, tools, and datasets.</p>
+          <p class="lh-title">Get inspired by this showcase of IPFS apps, tools, and datasets.</p>
           <a class="fw7" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33">
-          <p>Learn how IPFS integrates with common Web3 tech like Ethereum.</p>
+          <p class="lh-title">Learn how IPFS integrates with common Web3 tech like Ethereum.</p>
           <a class="fw7" href="/does/not/exist" id="install">IPFS + Web3&nbsp;&nbsp;&gt;&gt;</a>
         </div>
       </div>

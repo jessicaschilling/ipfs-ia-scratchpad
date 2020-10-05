@@ -18,15 +18,15 @@
       </h3>
       <div class="flex mt2 justify-between">
         <div class="w-33 mr4">
-          <p>Try all-levels, interactive tutorials on a variety of distributed-web topics.</p>
+          <p class="lh-title">Try all-levels, interactive tutorials on a variety of distributed-web topics.</p>
           <a class="fw7" href="https://proto.school/tutorials?course=ipfs" target="_blank">Visit ProtoSchool&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33 mr4">
-          <p>Find answers, examples, and how-tos in the IPFS documentation.</p>
+          <p class="lh-title">Find answers, examples, and how-tos in the IPFS documentation.</p>
           <a class="fw7" href="https://docs.ipfs.io" target="_blank">Read the docs&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33">
-          <p>Just want to install and explore? Get started here.</p>
+          <p class="lh-title">Just want to install and explore? Get started here.</p>
           <a class="fw7" id="why" href="#install">Install IPFS&nbsp;&nbsp;&gt;&gt;</a>
         </div>
       </div>

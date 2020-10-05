@@ -17,7 +17,7 @@
       <h3 class="f3 ma0 pa0">
         Use IPFS from your desktop and browser
       </h3>
-      <p class="mt3 mb4 lh-title">The IPFS desktop app and browser extension are a power pair for storing and sharing files &mdash; no code needed. And because IPFS Desktop includes a full node, it's good for devs and power users, too.</p>
+      <p class="mt3 mb4 lh-title">The IPFS desktop app and browser extension are a power pair for storing and sharing files &mdash; no code needed. And because IPFS Desktop includes a full node, it's great for devs and power users, too.</p>
       <div class="flex">
         <div class="w-50 mr3">
           <h4 class="ma0">IPFS Desktop</h4>
@@ -26,7 +26,7 @@
         </div>
         <div class="w-50">
           <h4 class="ma0">IPFS Companion</h4>
-          <p class="ma0 lh-title f5 mv2">Load, import, and share IPFS files straight from your browser.</p>
+          <p class="ma0 lh-title f5 mv2">Load, import, and share IPFS resources right in your browser.</p>
           <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#download-companion">Details &amp; Download</a>
         </div>
       </div>
@@ -64,26 +64,25 @@
         <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f3 montserrat">X</a>
         <h1 class="mv2 f2">IPFS Companion</h1>
         <div>
-          <p class="fw6 lh-title">Harness the power of your locally running IPFS node directly inside your browser.</p>
+          <p class="fw6 lh-title">Extend the power of IPFS Desktop (or any locally running IPFS node) to your favorite browser. IPFS Companion unlocks seamless support for IPFS-hosted websites, plus the ability to import and share resources directly from your browser.</p>
           <h2 class="mv0 pv0 f4 bn">Features</h2>
           <ul class="mv2 pv0 lh-title">
-            <li class="mb1">Automatically detect and redirect IPFS resources</li>
-            <li class="mb1">Easily support <span class="bg-light-gray pa1 code">ipfs://</span>, <span class="bg-light-gray pa1 code">ipns://</span> and <span class="bg-light-gray pa1 code">dweb:</span> addresses and links</li>
-            <li class="mb1">Access frequently-used IPFS actions right from your browser bar</li>
-            <li class="mb1">Enable and disable IPFS features on a per-website basis</li>
-            <li class="mb1">Import and pin items to your local IPFS node directly from your browser</li>
+            <li class="mb1">Import items to your IPFS node with a simple right-click</li>
+            <li class="mb1">Open your node's file browser or share a file right from your browser bar</li>
+            <li class="mb1">Automatically support <span class="bg-light-gray pa1 code">ipfs://</span>, <span class="bg-light-gray pa1 code">ipns://</span> and <span class="bg-light-gray pa1 code">dweb:</span> addresses</li>
+            <li class="mb1">Get CIDs and content paths on the fly when browsing IPFS-hosted sites</li>
           </ul>
           <h2 class="mb0 pv0 f4 bn">Great for</h2>
           <ul class="mv2 pv0 lh-title">
-            <li class="mb1">Making the most of IPFS features and functions in your favorite browser</li>
-            <li class="mb1">Easy access to your node on the fly</li>
-            <li class="mb1">Expanding your IPFS developer workflow to the browser</li>
+            <li class="mb1">Integrating IPFS features directly in your favorite browser</li>
+            <li class="mb1">Easy access to common tasks like adding, sharing, or browsing your node's files</li>
+            <li class="mb1">Testing IPFS apps and other common developer tasks</li>
           </ul>
         </div>
         <div>
           <a class="button-primary bg-teal f5 link glow o-80 ba bw1 ph4 pv3 mt2 mb1 br2 dib" href="#install">Download</a>
         </div>
-        <div class="f6 pt0 charcoal-muted">11.2MB, Firefox. Need a different browser? Visit the <a href="https://github.com/ipfs-shipyard/ipfs-companion/" target="_blank">GitHub repo</a> or the <a href="https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch" target="_blank">Chrome</a> or <a href="https://addons.mozilla.org/firefox/addon/ipfs-companion/" target="_blank">Firefox</a> stores.</div>
+        <div class="f6 pt0 charcoal-muted">2.2MB, Firefox. Need a different browser? Visit the <a href="https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch" target="_blank">Chrome</a> or <a href="https://addons.mozilla.org/firefox/addon/ipfs-companion/" target="_blank">Firefox</a> stores.</div>
       </div>
     </div>
 
@@ -111,15 +110,15 @@
       </h3>
       <div class="flex mt2 justify-between">
         <div class="w-33 mr4">
-          <p>Check out how-tos and tutorials in the IPFS docs.</p>
+          <p class="lh-title">Check out how-tos and tutorials in the IPFS docs.</p>
           <a class="fw7" href="https://docs.ipfs.io/how-to/" target="_blank">See the how-tos&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33 mr4">
-          <p>Ask questions and get community support in the official forum.</p>
+          <p class="lh-title">Ask questions and get community support in the official forum.</p>
           <a class="fw7" href="https://discuss.ipfs.io" target="_blank">Start a conversation&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33">
-          <p>Watch this video series demystifying core IPFS concepts.</p>
+          <p class="lh-title">Watch this video series demystifying core IPFS concepts.</p>
           <a class="fw7" href="https://www.youtube.com/playlist?list=PLuhRWgmPaHtSsHMhjeWpfOzr8tonPaePu" target="_blank">View the playlist&nbsp;&nbsp;&gt;&gt;</a>
         </div>
       </div>
