@@ -4,7 +4,9 @@ title: Legal & Policies
 ::: slot header
 <div class="f6 charcoal-muted"><a href="/#">Home</a> | Legal & policies</div>
 
-# Site policies & legal info
+# Legal & policies
+
+## Site policies and legal info, including DMCA details.
 :::
 
 ## Terms of service

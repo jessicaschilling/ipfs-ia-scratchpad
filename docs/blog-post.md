@@ -34,8 +34,8 @@ Sed sodales aliquet risus id sodales. In vel urna fermentum, rhoncus justo sit a
 <div class="bg-snow-muted pa3 mv4">
 <h2 class="mt0">Comments</h2>
 <p class="mb0">Thanks for this information. When can we start expecting to lorem ipsum dolor sit amet?</p>
-<p class="lh-title f6 charcoal-muted mt0 mb4">Firstname Lastname, <a href="">24 September 2020</a></p>
+<p class="lh-title f6 charcoal-muted mt0 mb4">Firstname Lastname, <a href="">24 November 2020</a></p>
 
 <p class="mb0">Great question! Sed sodales aliquet risus id sodales. In vel urna fermentum, rhoncus justo sit amet, pharetra magna. Ut hendrerit, quam non pretium malesuada, felis elit lobortis dolor, non fermentum velit eros et lectus.</p>
-<p class="lh-title f6 charcoal-muted mt0 mb2">Firstname Lastname, <a href="">24 September 2020</a></p>
+<p class="lh-title f6 charcoal-muted mt0 mb2">Firstname Lastname, <a href="">24 November 2020</a></p>
 </div>

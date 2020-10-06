@@ -218,7 +218,7 @@
         <div class="mt3">
           <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
           <p class="lh-title mb2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit.</p>
-          <p class="lh-title i f6 gray mt0">Published 24 September 2020</p>
+          <p class="lh-title i f6 gray mt0">Published 24 November 2020</p>
           <div>
             <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">type: <a href="">video</a></span>
             <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">foo</a></span>
