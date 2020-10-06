@@ -20,7 +20,7 @@
     Explore a sample IPFS app
     </h3>
     <p class="lh-title f4 mb1">
-      There are many ways to make use of IPFS in apps and services &mdash; here's just one example to illustrate where IPFS fits in from the end user's experience all the way down to the core tech stack. Click to explore.
+      There are many ways to make use of IPFS in apps and services &mdash; here's just one example to illustrate where IPFS fits in from the end user's experience all the way down to the core tech stack.
     </p>
     <div class="bg-snow-muted pa3 pb2 mt3 mb4 f4">
       <div class="flex">
