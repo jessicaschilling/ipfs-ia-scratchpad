@@ -55,7 +55,7 @@
         <div>
           <a class="button-primary bg-teal f5 link glow o-80 ba bw1 ph4 pv3 mt2 mb1 br2 dib" href="#install">Download</a>
         </div>
-        <div class="f6 pt0 charcoal-muted">21.2MB, Mac OSX. Need a different OS? <a href="https://github.com/ipfs-shipyard/ipfs-desktop/#install" target="_blank">View all</a></div>
+        <div class="f6 pt0 charcoal-muted">114.2MB, Mac OSX. Need a different OS? <a href="https://github.com/ipfs-shipyard/ipfs-desktop/#install" target="_blank">View all</a></div>
       </div>
     </div>
 

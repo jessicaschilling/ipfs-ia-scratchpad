@@ -7,7 +7,7 @@ title: Blog & News
 
 # Blog, news & more
 
-## All the up-to-date info you need on IPFS in one place, from blog posts and release notes to video highlights, tutorials, news coverage, and events.
+## All the up-to-date IPFS info you need in one place, from blog posts and release notes to video highlights, tutorials, news coverage, and events.
 :::
 
 <BlogIntroSortFilter/>

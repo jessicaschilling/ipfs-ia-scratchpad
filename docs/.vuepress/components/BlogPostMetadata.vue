@@ -1,11 +1,11 @@
 <template>
-  <div class="bb bw1 b--light-gray mt3">
+  <div class="bb bw1 b--snow-muted mt3 flex justify-between">
     <div class="mb3">
-      <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">type: <a href="">blog</a></span>
-      <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">type: <a href="">newsletter</a></span>
-      <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">foo</a></span>
-      <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">bar</a></span>
-      <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">tag: <a href="">baz</a></span>
+      <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow charcoal-muted"><a href="">blog</a></span>
+      <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow charcoal-muted"><a href="">newsletter</a></span>
+      <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow charcoal-muted"><a href="">#foo</a></span>
+      <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow charcoal-muted"><a href="">#bar</a></span>
+      <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow charcoal-muted"><a href="">#baz</a></span>
     </div>
     <div class="lh-title f6 charcoal-muted mt0 mb3 flex items-center">
       Share this post:
