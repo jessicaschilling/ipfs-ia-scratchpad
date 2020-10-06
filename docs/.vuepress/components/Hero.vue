@@ -18,6 +18,7 @@
 
 <style lang="stylus" scoped>
   .fader {
+    opacity: 0;
     animation-name: fade;
     animation-duration: 12s;
     animation-iteration-count: infinite;
