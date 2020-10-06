@@ -10,4 +10,5 @@ title: Blog & News
 ## All the up-to-date info you need on IPFS in one place, from blog posts and release notes to video highlights, tutorials, news coverage, and events.
 :::
 
-<Masonry/>
+<BlogIntroSortFilter/>
+<BlogMasonry/>

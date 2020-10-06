@@ -17,7 +17,7 @@ title: Blog | Lorem ipsum dolor sit amet
 </div>
 :::
 
-<BlogMetadata/>
+<BlogPostMetadata/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet ullamcorper lorem sed sollicitudin. Integer placerat, felis non hendrerit blandit, elit nisi semper ipsum, in commodo eros ante quis augue. Phasellus at lacus auctor, scelerisque velit vitae, sodales justo. Nam dignissim ex quam, sed elementum sem ornare vel. Curabitur sodales molestie tempor. Cras et tincidunt lacus. Duis tincidunt velit non egestas consectetur. In porttitor feugiat tempus. Aliquam quis nisi vel libero tincidunt pharetra vitae in ipsum.
 
