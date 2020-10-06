@@ -1,9 +1,11 @@
 <template>
   <div class="bg-washed-blue tc pt6 pb5">
     <h1 class="f1 mv4">IPFS is ...</h1>
-    <div class="f2 mt2 h2 mb5 gray tc relative">
-      <div class="fader absolute w-100"><div class="tc">Decentralized file storage</div></div>
-      <div class="fader absolute w-100">The next-generation web</div>
+    <div class="f2 mt2 h2 mb5 charcoal-muted tc relative">
+      <div class="fader absolute w-100">Decentralized file storage + delivery</div>
+      <div class="fader absolute w-100">A protocol for building peer-to-peer apps</div>
+      <div class="fader absolute w-100">A path to a permanent, resilient web</div>
+      <div class="fader absolute w-100">The next generation of the internet</div>
     </div>
     <div class="tc">
       <a class="button-secondary f4 link glow o-80 ba bw1 ph4 pv3 mb2 br2 dib mr2" href="#why">Why IPFS?</a>
@@ -12,29 +14,32 @@
   </div>
 </template>
 
-<style lang="stylus" scoped>
-  .fader:nth-child(1){
-    animation-name: fade;
-    animation-fill-mode: both;
-    animation-iteration-count: infinite;
-    animation-duration: 2s;
-    animation-direction: alternate-reverse;
-  }
 
-  .fader:nth-child(2){
+
+<style lang="stylus" scoped>
+  .fader {
     animation-name: fade;
-    animation-fill-mode: both;
+    animation-duration: 12s;
     animation-iteration-count: infinite;
-    animation-duration: 2s;
-    animation-direction: alternate;
+  }
+  .fader:nth-child(1){
+  }
+  .fader:nth-child(2){
+    animation-delay: 3s;
+  }
+  .fader:nth-child(3){
+    animation-delay: 6s;
+  }
+  .fader:nth-child(4){
+    animation-delay: 9s;
   }
 
   @keyframes fade{
-      0%,45% {
-        opacity: 0;
-  }
-      100%{
+      0%, 20%, 100% {
         opacity: 1;
+  }
+      30%, 99%{
+        opacity: 0;
     }
   }
 </style>

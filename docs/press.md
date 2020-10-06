@@ -3,7 +3,7 @@ title: Press kit
 ---
 
 ::: slot header
-<div class="f6 charcoal-muted"><a href="/#">Home</a> | Legal & policies</div>
+<div class="f6 charcoal-muted"><a href="/#">Home</a> | Press kit</div>
 
 # Press kit
 
