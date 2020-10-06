@@ -5,9 +5,16 @@ title: Blog | Lorem ipsum dolor sit amet
 ::: slot header
 <div class="f6 charcoal-muted"><a href="/#">Home</a> | <a href="/blog-news">Blog & news</a> | IPFS Weekly #123: Lorem ipsum dolor sit</div>
 
-<img src="/assets/img/blog-weekly.png" class="w-100 o-50 mt4">
+<div class="flex">
+<div>
 
 # IPFS Weekly #123: Lorem ipsum dolor sit
+<p class="lh-title f5 charcoal-muted mt0 mb1"><a href="">Firstname Lastname</a> and <a href="">Firstname Lastname</a></p>
+<p class="lh-title f5 charcoal-muted mt0 mb2">24 November 2020</p>
+</div>
+<img src="/assets/img/blog-weekly.png" class="w-50 o-50 mt4 ml4">
+
+</div>
 :::
 
 <BlogMetadata/>

@@ -1,7 +1,5 @@
 <template>
-  <div class="bb bw1 b--light-gray">
-    <p class="lh-title f5 charcoal-muted mt0 mb1"><a href="">Firstname Lastname</a> and <a href="">Firstname Lastname</a></p>
-    <p class="lh-title f5 charcoal-muted mt0 mb2">24 September 2020</p>
+  <div class="bb bw1 b--light-gray mt3">
     <div class="mb3">
       <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">type: <a href="">blog</a></span>
       <span class="f6 link glow o-80 ph2 pv1 br3 dib bg-light-gray">type: <a href="">newsletter</a></span>
