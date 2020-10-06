@@ -26,9 +26,9 @@
       <div class="flex">
         <img class="desaturate o-50 w5 mr4 mt2" src="/assets/img/illo-user.svg">
         <div>
-          <h4 class="f4 mv2 pa0">The end-user experience</h4>
+          <h4 class="f4 mv2 pa0">The user</h4>
           <p class="ma0 pa0 pb2 lh-title f5">Annie gets tired of social media platforms owned by big companies and downloads a new photo sharing app built on IPFS.</p>
-          <p class="ma0 pa0 lh-title f5">It's running an IPFS node in her phone, but all she needs to know is she can get started without signing up for an account.</p>
+          <p class="ma0 pa0 lh-title f5">It's running an IPFS node in her phone, but all this means to her is that she can get started without signing up for an account.</p>
         </div>
       </div>
      <div class="tc mw8 center mt3">

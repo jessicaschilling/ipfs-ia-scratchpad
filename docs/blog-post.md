@@ -2,10 +2,13 @@
 title: Blog | Lorem ipsum dolor sit amet
 ---
 
-<BlogBreadcrumb/>
-<img src="/assets/img/blog-weekly.png" class="w-100 o-50">
+::: slot header
+<div class="f6 charcoal-muted"><a href="/#">Home</a> | <a href="/blog-news">Blog & news</a> | IPFS Weekly #123: Lorem ipsum dolor sit</div>
+
+<img src="/assets/img/blog-weekly.png" class="w-100 o-50 mt4">
 
 # IPFS Weekly #123: Lorem ipsum dolor sit
+:::
 
 <BlogMetadata/>
 

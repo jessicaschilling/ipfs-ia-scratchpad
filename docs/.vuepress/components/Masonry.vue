@@ -1,10 +1,6 @@
 <template>
   <div>
-  <div class="bg-washed-blue mv4 pa4">
-    <h1 class="tc f2 ma0 bw0">Blog, News &amp; More</h1>
-    <p class="mt3 mb3 lh-title f4 fw5">
-      All the up-to-date info you need on IPFS in one place. Blog posts, notable news coverage, IPFS video highlights, ProtoSchool tutorials, events, and more.
-    </p>
+  <div class="">
     <p class="mt2 mb0 lh-title">
       Is something missing, like your event? <a href="press">Submit it here</a>.
     </p>

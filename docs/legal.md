@@ -1,8 +1,11 @@
 ---
-title: Legal
+title: Legal & Policies
 ---
+::: slot header
+<div class="f6 charcoal-muted"><a href="/#">Home</a> | Legal & policies</div>
 
-# Legal
+# Site policies & legal info
+:::
 
 ## Terms of service
 
@@ -106,10 +109,10 @@ Your DMCA Notice must include all of the following information:
 ### Where do you email/send the DMCA Notice?
 The quickest way is to email it to abuse@ipfs.io. If you prefer, you can instead send it to:
 
-    Protocol Labs Inc.
-    Attn: IPFS Designated DMCA Agent
-    427 N. Tatnall St. #51207
-    Wilmington, Delaware 19801
+Protocol Labs Inc.<br/>
+Attn: IPFS Designated DMCA Agent<br/>
+427 N. Tatnall St. #51207<br/>
+Wilmington, Delaware 19801
 
 Our Designated Agent’s telephone number is **+1 (302) 409-0239**
 

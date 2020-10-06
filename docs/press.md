@@ -2,7 +2,11 @@
 title: Press Resources
 ---
 
-# Press Resources
+::: slot header
+<div class="f6 charcoal-muted"><a href="/#">Home</a> | Legal & policies</div>
+
+# Press resources
+:::
 
 We've created this IPFS press kit to help news and media outlets quickly find material to help understand and explain what IPFS is, who powers the IPFS project, and how it will shape the future of the internet.
 
