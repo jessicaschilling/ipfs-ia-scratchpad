@@ -2,7 +2,7 @@
   <div class="center mw8 mv5">
     <h2 class="f1 ma0 pb3 bw0">About IPFS</h2>
     <p class="mt3 lh-title f3 fw4">
-      <span class="fw6">The InterPlanetary File System is many things.</span> It's an <a href="https://github.com/ipfs/ipfs">open-source</a> protocol for storing and serving data without relying on big corporations. It's a critical ingredient in <a href="/does/not/exist" id="install">apps and services</a> making the internet fast, offline-tolerant, and archivally minded. It's at the core of <a href="https://filecoin.io" target="_blank">Filecoin</a>. But at its heart, IPFS is here to make the web better for generations to come.
+      <span class="fw6">The InterPlanetary File System is many things:</span> It's an <a href="https://github.com/ipfs/ipfs">open-source</a> protocol for storing and serving data without relying on big corporations. It's a crucial part of <a href="/does/not/exist" id="install">apps and services</a> creating a faster, offline-tolerant, and more permanent internet. It's at the core of <a href="https://filecoin.io" target="_blank">Filecoin</a>. But at its heart, IPFS is here to make the web better for generations to come.
     </p>
     <div class="flex mt5 mb5">
       <div class="mr4 w-40">
@@ -55,15 +55,15 @@
       </h3>
       <div class="flex mt2 justify-between">
         <div class="w-33 mr4">
-          <p class="lh-title">Try all-levels, interactive tutorials on a variety of distributed web topics.</p>
-          <a class="fw7" href="https://proto.school/tutorials?course=ipfs" target="_blank">Visit ProtoSchool&nbsp;&nbsp;&gt;&gt;</a>
+          <p class="lh-title">Visit ProtoSchool for interactive tutorials on distributed-web basics.</p>
+          <a class="fw7" href="https://proto.school/tutorials?course=ipfs" target="_blank">Go to ProtoSchool&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33 mr4">
-          <p class="lh-title">Find answers, examples, and how-tos in the IPFS documentation.</p>
-          <a class="fw7" href="https://docs.ipfs.io" target="_blank">Read the docs&nbsp;&nbsp;&gt;&gt;</a>
+          <p class="lh-title">Learn about core IPFS concepts, plus examples and how-tos, in the docs.</p>
+          <a class="fw7" href="https://docs.ipfs.io" target="_blank">Explore IPFS docs&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33">
-          <p class="lh-title">Just want to install and explore? Get started here.</p>
+          <p class="lh-title">Just want to dive in? Install now and try IPFS for yourself.</p>
           <a class="fw7" id="why" href="#install">Install IPFS&nbsp;&nbsp;&gt;&gt;</a>
         </div>
       </div>

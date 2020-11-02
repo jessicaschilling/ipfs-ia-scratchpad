@@ -20,6 +20,7 @@
         <option value="browser">All content</option>
         <option value="blog-posts">Blog posts</option>
         <option value="release-notes">Release notes</option>
+        <option value="news-coverage">Academic papers</option>
         <option value="news-coverage">News coverage</option>
         <option value="videos">Videos</option>
         <option value="tutorials">Tutorials</option>
@@ -31,7 +32,7 @@
     </div>
 
     <div class="ba br2 b--gray pa2 mb4">
-      <p class="ma0 pa0">Displaying <span class="fw7">42 results</span> of all types for "search string" with tags:
+      <p class="ma0 pa0">Displaying <span class="fw7">42 results</span> (newest first) of all types for "search string" with tags:
         <span class="f6 glow o-80 ph2 br3 dib bg-snow ml1"><a href="#0">x </a>#foo</span>
         <span class="f6 glow o-80 ph2 br3 dib bg-snow ml2"><a href="#0">x </a>#bar</span>
       </p>

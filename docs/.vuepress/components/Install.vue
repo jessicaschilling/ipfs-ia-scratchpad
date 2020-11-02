@@ -7,26 +7,30 @@
 
     <div class="bg-snow-muted pa4 mt3 mb4 f4">
       <h3 class="f3 ma0 pa0">
-        Run an IPFS node, no frills
+        For command-line fans
       </h3>
-      <p class="mt3 mb2 lh-title">Just want a node on your computer? Install IPFS and run it in the background in two commands.</p>
+      <p class="mt3 mb2 lh-title">Just want an IPFS node on your computer? Install IPFS and run in the background in two commands.</p>
       <div class="db bg-charcoal-muted white pa2 code f4">$ fancypackagemanager install ipfs<br/>$ ipfs daemon</div>
+      <div class="f6 mt2 charcoal-muted">Need a different package manager or step-by-step CLI instructions? <a href="https://docs.ipfs.io/install/command-line/" target="_blank">Check here.</a></div>
     </div>
 
     <div class="bg-snow-muted pa4 mt3 mb4 f4">
       <h3 class="f3 ma0 pa0">
-        Use IPFS from your desktop and browser
+        For everyone
       </h3>
       <p class="mt3 mb4 lh-title">The IPFS desktop app and browser extension are a power pair for storing and sharing files &mdash; no code needed. And because IPFS Desktop includes a full node, it's great for devs and power users, too.</p>
-      <div class="flex">
+      <div class="flex items-center">
         <div class="w-50 mr3">
-          <h4 class="ma0">IPFS Desktop</h4>
-          <p class="ma0 lh-title f5 mv2">Browse, add, and share files in an easy desktop app.</p>
+          <h4 class="ma0"><a href="#download-desktop" class="fw6">IPFS Desktop</a></h4>
+          <p class="ma0 lh-title f5 mv2">Manage your node, import/share files and more in a convenient, robust desktop app.</p>
           <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#download-desktop">Details &amp; Download</a>
         </div>
+        <div class="ml4 mr5">
+          <h4 class="ma0 pb4" style="font-size: 3em;">+</h4>
+        </div>
         <div class="w-50">
-          <h4 class="ma0">IPFS Companion</h4>
-          <p class="ma0 lh-title f5 mv2">Load, import, and share IPFS resources right in your browser.</p>
+          <h4 class="ma0"><a href="#download-companion" class="fw6">IPFS Companion</a></h4>
+          <p class="ma0 lh-title f5 mv2">Add browser support for IPFS plus handy shortcuts for importing, sharing, and more.</p>
           <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#download-companion">Details &amp; Download</a>
         </div>
       </div>
@@ -64,13 +68,13 @@
         <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f3 montserrat">X</a>
         <h1 class="mv2 f2">IPFS Companion</h1>
         <div>
-          <p class="fw6 lh-title">Extend the power of IPFS Desktop (or any locally running IPFS node) to your favorite browser. IPFS Companion unlocks seamless support for IPFS-hosted websites, plus the ability to import and share resources directly from your browser.</p>
+          <p class="fw6 lh-title">Extend the power of IPFS to your favorite browser. IPFS Companion unlocks seamless support for IPFS-hosted sites, plus browser shortcuts for adding/sharing files, keeping sites available offline, and more. <br/><em>Requires IPFS Desktop or the IPFS daemon for full functionality.</em></p>
           <h2 class="mv0 pv0 f4 bn">Features</h2>
           <ul class="mv2 pv0 lh-title">
-            <li class="mb1">Import items to your IPFS node with a simple right-click</li>
-            <li class="mb1">Open your node's file browser or share a file right from your browser bar</li>
+            <li class="mb1">Import items to your IPFS node directly from your browser</li>
+            <li class="mb1">Open your node's dashboard or share a file right from your browser bar</li>
             <li class="mb1">Automatically support <span class="bg-light-gray pa1 code">ipfs://</span>, <span class="bg-light-gray pa1 code">ipns://</span> and <span class="bg-light-gray pa1 code">dweb:</span> addresses</li>
-            <li class="mb1">Get CIDs and content paths on the fly when browsing IPFS-hosted sites</li>
+            <li class="mb1">Easily copy CIDs and content paths when browsing IPFS-hosted sites</li>
           </ul>
           <h2 class="mb0 pv0 f4 bn">Great for</h2>
           <ul class="mv2 pv0 lh-title">
@@ -90,7 +94,7 @@
       <h3 class="f3 ma0 pa0">
         Build with IPFS
       </h3>
-      <p class="mt3 lh-title">With implementations in <a href="https://github.com/ipfs/go-ipfs" target="_blank">Go</a> and <a href="https://github.com/ipfs/js-ipfs" target="_blank">JavaScript</a>, it's straightforward to integrate IPFS into your app or service. You can also leverage IPFS for file storage without running your own nodes by using a <a href="does/not/exist" target="_blank">pinning service</a> or <a href="https://filecoin.io/" target="_blank">Filecoin</a>. And for big data, <a href="https://cluster.ipfs.io/" target="_blank">IPFS Cluster</a> offers orchestration across many nodes.</p>
+      <p class="mt3 lh-title">Integrating IPFS into your app or service is straightforward thanks to implementations in <a href="https://github.com/ipfs/go-ipfs" target="_blank">Go</a> and <a href="https://github.com/ipfs/js-ipfs" target="_blank">JavaScript</a>. You can also leverage IPFS for file storage/delivery without running your own nodes by using a <a href="does/not/exist" target="_blank">pinning service</a> or <a href="https://filecoin.io/" target="_blank">Filecoin</a>. And for big data, <a href="https://cluster.ipfs.io/" target="_blank">IPFS Cluster</a> offers orchestration across nodes.</p>
       <div class="flex items-center mt3">
         <label class="mr3" for="diagnostic">What do you want to do?</label>
         <select name="diagnostic" id="diagnostic" class="pa1 pr2 mr2">
