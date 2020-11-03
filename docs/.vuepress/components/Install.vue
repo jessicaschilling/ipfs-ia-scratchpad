@@ -94,7 +94,7 @@
       <h3 class="f3 ma0 pa0">
         Build with IPFS
       </h3>
-      <p class="mt3 lh-title">With multiple language implementations and storage options ranging from data orchestration across your own node cluster to using pinning services or Filecoin, integrating IPFS is straightforward.</p>
+      <p class="mt3 lh-title">With multiple language implementations and storage tooling ranging from data orchestration across your own node cluster to storing on pinning services or Filecoin, there's a world of flexible options for you to build on.</p>
       <div class="mv4 f4 flex">
         <div class="w-50 br b--gray-muted">
           <h4 class="mt0 mb2">Language implementations</h4>
@@ -102,17 +102,17 @@
             <div class="w-33 pr3 tc items-center br b--gray-muted">
               <img class="desaturate o-50 h3" src="/assets/img/build-go.png">
               <h5 class="pt1 ma0 f5"><a href="https://github.com/ipfs/go-ipfs" target="_blank" class="fw6">Go</a></h5>
-              <div>The reference implementation of IPFS</div>
+              <div>The reference implementation of IPFS.</div>
             </div>
             <div class="w-33 ph3 tc items-center br b--gray-muted">
               <div<img class="desaturate o-50 h3" src="/assets/img/build-js.png">
               <h5 class="pt1 ma0 f5"><a href="https://js.ipfs.io" target="_blank" class="fw6">JavaScript</a></h5>
-              <div>A full p2p protocol written entirely in JS</div>
+              <div>A full p2p protocol written entirely in JS.</div>
             </div>
             <div class="w-33 ph3 tc items-center">
               <img class="desaturate o-30 h3" src="/assets/img/build-rust.png">
               <h5 class="pt1 ma0 f5"><a href="does/not/exist" target="_blank" class="fw6">Rust</a></h5>
-              <div>The newest member of the IPFS family</div>
+              <div>The newest member of the IPFS family.</div>
             </div>
           </div>
         </div>
@@ -122,17 +122,17 @@
             <div class="w-33 ph3 tc items-center br b--gray-muted">
               <img class="desaturate o-70 h3" src="/assets/img/build-cluster.png">
               <h5 class="pt1 ma0 f5"><a href="https://cluster.ipfs.io" target="_blank" class="fw6">IPFS Cluster</a></h5>
-              <div>Orchestration for large multi-node projects</div>
+              <div>Orchestration for large multi-node projects.</div>
             </div>
             <div class="w-33 ph2 tc items-center br b--gray-muted">
               <img class="desaturate o-30 h3" src="/assets/img/build-pinning.svg">
               <h5 class="pt1 ma0 f5"><a href="does/not/exist" target="_blank" class="fw6">Pinning services</a></h5>
-              <div class="pt1">IPFS storage without running your own nodes</div>
+              <div class="pt1">IPFS storage without running your own nodes.</div>
             </div>
             <div class="w-33 pl3 tc items-center">
               <img class="desaturate o-50 w3" src="/assets/img/build-filecoin.png">
               <h5 class="pt1 ma0 f5"><a href="https://filecoin.io" target="_blank" class="fw6">Filecoin</a></h5>
-              <div class="pt1">Cold storage on the incentivized Filecoin network</div>
+              <div class="pt1">Cold storage on the incentivized Filecoin network.</div>
             </div>
           </div>
         </div>
