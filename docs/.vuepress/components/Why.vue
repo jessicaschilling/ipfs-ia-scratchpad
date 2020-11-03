@@ -41,16 +41,16 @@
           <label class="mr1" for="ecosystem-type">By type</label>
           <select name="ecosystem-type" id="ecosystem-type" class="charcoal">
             <option value="integrations-collabs">Featured</option>
-            <option value="ecommerce">Ecommerce</option>
-            <option value="content">Content providers</option>
+            <option value="ecommerce">E-commerce &amp; marketplaces</option>
+            <option value="content">CDNs &amp; content providers</option>
             <option value="nft">Non-fungible tokens</option>
-            <option value="defi">DeFi</option>
-            <option value="exchange">Exchange</option>
+            <option value="defi">Decentralized finance</option>
+            <option value="exchange">Prediction &amp; gaming</option>
             <option value="social-media">Social media</option>
             <option value="data-markets">Data markets</option>
-            <option value="persistence">Persistence</option>
-            <option value="governance">Governance</option>
-            <option value="identity">Identity</option>
+            <option value="persistence">Data persistence &amp; archiving</option>
+            <option value="governance">Data governance</option>
+            <option value="identity">Self-sovereign identity</option>
           </select>
         </div>
         <a class="fw7" href="/does/not/exist" id="install">View the entire ecosystem&nbsp;&nbsp;&gt;&gt;</a></div>

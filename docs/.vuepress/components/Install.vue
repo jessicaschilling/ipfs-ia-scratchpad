@@ -132,7 +132,7 @@
             <div class="w-33 pl3 tc items-center">
               <img class="desaturate o-50 w3" src="/assets/img/build-filecoin.png">
               <h5 class="pt1 ma0 f5"><a href="https://filecoin.io" target="_blank" class="fw6">Filecoin</a></h5>
-              <div class="pt1">Cold storage on the incentivized Filecoin network.</div>
+              <div class="pt1">Archival storage on an incentivized network.</div>
             </div>
           </div>
         </div>
