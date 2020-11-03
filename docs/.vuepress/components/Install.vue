@@ -94,8 +94,50 @@
       <h3 class="f3 ma0 pa0">
         Build with IPFS
       </h3>
-      <p class="mt3 lh-title">Integrating IPFS into your app or service is straightforward thanks to implementations in <a href="https://github.com/ipfs/go-ipfs" target="_blank">Go</a> and <a href="https://github.com/ipfs/js-ipfs" target="_blank">JavaScript</a>. You can also leverage IPFS for file storage/delivery without running your own nodes by using a <a href="does/not/exist" target="_blank">pinning service</a> or <a href="https://filecoin.io/" target="_blank">Filecoin</a>. And for big data, <a href="https://cluster.ipfs.io/" target="_blank">IPFS Cluster</a> offers orchestration across nodes.</p>
-      <div class="flex items-center mt3">
+      <p class="mt3 lh-title">With multiple language implementations and storage options ranging from data orchestration across your own node cluster to using pinning services or Filecoin, integrating IPFS is straightforward.</p>
+      <div class="mv4 f4 flex">
+        <div class="w-50 br b--gray-muted">
+          <h4 class="mt0 mb2">Language implementations</h4>
+          <div class="f5 h4 items-center lh-title flex justify-between h-100">
+            <div class="w-33 pr3 tc items-center br b--gray-muted">
+              <img class="desaturate o-50 h3" src="/assets/img/build-go.png">
+              <h5 class="pt1 ma0 f5"><a href="https://github.com/ipfs/go-ipfs" target="_blank" class="fw6">Go</a></h5>
+              <div>The reference implementation of IPFS</div>
+            </div>
+            <div class="w-33 ph3 tc items-center br b--gray-muted">
+              <div<img class="desaturate o-50 h3" src="/assets/img/build-js.png">
+              <h5 class="pt1 ma0 f5"><a href="https://js.ipfs.io" target="_blank" class="fw6">JavaScript</a></h5>
+              <div>A full p2p protocol written entirely in JS</div>
+            </div>
+            <div class="w-33 ph3 tc items-center">
+              <img class="desaturate o-30 h3" src="/assets/img/build-rust.png">
+              <h5 class="pt1 ma0 f5"><a href="does/not/exist" target="_blank" class="fw6">Rust</a></h5>
+              <div>The newest member of the IPFS family</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-50">
+          <h4 class="mt0 mb2 pl3">Storage tooling</h4>
+          <div class="f5 h4 items-center lh-title flex justify-between h-100">
+            <div class="w-33 ph3 tc items-center br b--gray-muted">
+              <img class="desaturate o-70 h3" src="/assets/img/build-cluster.png">
+              <h5 class="pt1 ma0 f5"><a href="https://cluster.ipfs.io" target="_blank" class="fw6">IPFS Cluster</a></h5>
+              <div>Orchestration for large multi-node projects</div>
+            </div>
+            <div class="w-33 ph2 tc items-center br b--gray-muted">
+              <img class="desaturate o-30 h3" src="/assets/img/build-pinning.svg">
+              <h5 class="pt1 ma0 f5"><a href="does/not/exist" target="_blank" class="fw6">Pinning services</a></h5>
+              <div class="pt1">IPFS storage without running your own nodes</div>
+            </div>
+            <div class="w-33 pl3 tc items-center">
+              <img class="desaturate o-50 w3" src="/assets/img/build-filecoin.png">
+              <h5 class="pt1 ma0 f5"><a href="https://filecoin.io" target="_blank" class="fw6">Filecoin</a></h5>
+              <div class="pt1">Cold storage on the incentivized Filecoin network</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="flex items-center mt3">
         <label class="mr3" for="diagnostic">What do you want to do?</label>
         <select name="diagnostic" id="diagnostic" class="pa1 pr2 mr2">
           <option value="go-ipfs">Integrate IPFS with a Go app or service</option>
@@ -105,7 +147,7 @@
           <option value="filecoin">Store files or provide storage on the Filecoin network</option>
         </select>
         <a class="button-primary bg-teal f5 link glow o-80 ba ph4 pv2 mv2 br2 dib" href="#install">Get Started</a>
-      </div>
+      </div> -->
     </div>
 
     <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt5">
@@ -131,6 +173,10 @@
 </template>
 
 <style lang="stylus" scoped>
+img.desaturate {
+	filter: grayscale(100%);
+}
+
 .modal-window {
   background-color: rgba(0, 0, 0, 0.25);
   visibility: hidden;
