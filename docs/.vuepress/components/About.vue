@@ -12,27 +12,31 @@
         <p class="lh-title f4 mb1">
           This three-minute summary explains what IPFS is, the essentials of how it works, and how it has the potential to revolutionize the web.
         </p>
-        <p class="lh-title mt0 f6"><a href="does/not/exist" target="_blank">Read the transcript</a></p>
+        <p class="lh-title mt2 f6">Don't want video? <a href="does/not/exist" target="_blank">Try the interactive summary</a></p>
       </div>
       <img class="w-60" src="/assets/img/video-placeholder.jpg">
     </div>
     <h3 class="f3 ma0 pa0">
-    Explore how IPFS works
+    How IPFS works
     </h3>
     <p class="lh-title f4 mb1">
-      There are many ways to make use of IPFS in apps and services &mdash; here's just one example to illustrate where IPFS fits in from the end user's experience all the way down to the core tech stack.
+      Here's a step-by-step example of how IPFS works to make a sample app efficient, offline-first and more secure. (Turn on dev mode to see behind the scenes!)
     </p>
-    <div class="bg-snow-muted pa3 pb2 mt3 mb4 f4">
+    <div class="bg-snow-muted pa4 pb2 mt3 mb4 f4">
       <div class="flex">
-        <img class="desaturate o-50 w5 mr4 mt2" src="/assets/img/illo-user.svg">
-        <div>
-          <h4 class="f4 mv2 pa0">The user</h4>
-          <p class="ma0 pa0 pb2 lh-title f5">Annie gets tired of social media platforms owned by big companies and downloads a new photo sharing app built on IPFS.</p>
-          <p class="ma0 pa0 lh-title f5">It's running an IPFS node in her phone, but all this means to her is that she can get started without signing up for an account.</p>
+        <div class="flex w-50">
+          <img class="desaturate o-60 w-30 mr4" src="/assets/img/how-illo.svg">
+          <div class="w-70">
+            <p class="ma0 pa0 pb2 lh-title f5">Alice, Bob, and Carol are on the flight home from vacation, trading phone snapshots from the trip in an <strong>IPFS-powered photo sharing app</strong>.</p>
+            <p class="ma0 pa0 lh-title f5">Because each of their phones is an IPFS node, they don't need wi-fi or cell data to communicate, and they don't need to bother with usernames and passwords to use the app.</p>
+          </div>
+        </div>
+        <div class="flex w-50 ml4 pa3 h100 bg-gray-muted">
+          <img class="desaturate o-40 mr4" src="/assets/img/how-diagram.svg">
         </div>
       </div>
-     <div class="tc mw8 center mt3">
-       <div class="dib overflow-hidden ba br2 b--gray">
+     <div class="flex items-center justify-center mt4 mb3">
+       <div class="dib overflow-hidden ba br2 mr3 b--gray">
          <nav class="cf" data-name="pagination-numbers-bordered">
            <a class="fl dib dim f6 b pa2 br b--gray" href="#" title="Previous">&larr; Prev</a>
            <a class="fr dib dim f6 b pa2" href="#" title="Next">Next &rarr;</a>
@@ -46,6 +50,11 @@
            </div>
          </nav>
        </div>
+       <div>
+         <input type="checkbox" id="dev-mode" name="dev-mode" checked>
+         <label for="dev-mode" class="f6 fw6">Dev mode</label>
+       </div>
+
      </div>
     </div>
 

@@ -41,7 +41,7 @@
         <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f3 montserrat">X</a>
         <h1 class="mv2 f2">IPFS Desktop</h1>
         <div>
-          <p class="fw6 lh-title">A complete IPFS node plus a simple-to-use file browser for adding, viewing, and sharing items, IPFS Desktop gives you all the power of IPFS in an easy desktop app.</p>
+          <p class="fw6 lh-title">A complete IPFS node plus an easy-to-use file browser for adding, viewing, and sharing items, IPFS Desktop gives you all the power of IPFS in a friendly desktop app.</p>
           <h2 class="mv0 pv0 f4 bn">Features</h2>
           <ul class="mv2 pv0 lh-title">
             <li class="mb1">File browser lets you add, move, view, share, and pin files</li>

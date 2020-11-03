@@ -20,7 +20,7 @@
         <div>Rate-of-growth or reliability metric</div>
       </div>
     </div>
-    <h3 class="f3 ma0 pa0">
+    <h3 class="f3 mb0 pt4 pa0">
     Who's using IPFS
     </h3>
     <div class="bg-white pa3 mt3 mb5 f4">
@@ -31,8 +31,8 @@
         <div class="ph4 flex items-center h-100 mr3 br b--snow" data-balloon-length="medium" aria-label="Opera includes an IPFS node so that XYZ in ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-50 w3" src="/assets/img/ecosystem-opera.png"></div>
         <div class="ph4 flex items-center h-100 mr3 br b--snow" data-balloon-length="medium" aria-label="Microsoft uses IPFS for XYZ, leading to ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-50 w3" src="/assets/img/ecosystem-microsoft.png"></div>
         <div class="ph4 flex items-center h-100 mr3 br b--snow" data-balloon-length="medium" aria-label="Cloudflare's IPFS hosting achieves XYZ in ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-50 w3" src="/assets/img/ecosystem-cloudflare.png"></div>
-        <div class="ph4 flex items-center h-100 mr3 br b--snow" data-balloon-length="medium" aria-label="Guix and IPFS means XYZ, doing ABC in ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-50 w3" src="/assets/img/ecosystem-guix.png"></div>
-        <div class="ph4 flex items-center h-100 mr3 charcoal-muted" data-balloon-length="medium" aria-label="Kiwix integrates IPFS for XYZ, accomplishing ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-30 w3" src="/assets/img/ecosystem-kiwix.png"></div>
+        <div class="ph4 flex items-center h-100 mr3 br b--snow" data-balloon-length="medium" aria-label="OrbitDB and IPFS means XYZ, doing ABC in ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-50 w4" src="/assets/img/ecosystem-orbitdb.png"></div>
+        <div class="ph4 flex items-center h-100 mr3 charcoal-muted" data-balloon-length="medium" aria-label="Fission uses IPFS for XYZ, accomplishing ABC. Learn more &gt;" data-balloon-pos="up"><img class="desaturate o-30 w3" src="/assets/img/ecosystem-fission.png"></div>
         <div class="mr3 f2 teal-muted">&gt;</div>
       </div>
       <div class="f5 tr lh-title flex justify-between">
