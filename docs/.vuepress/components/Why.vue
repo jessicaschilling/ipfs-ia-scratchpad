@@ -53,7 +53,7 @@
             <option value="identity">Self-sovereign identity</option>
           </select>
         </div>
-        <a class="fw7" href="/does/not/exist" id="install">View the entire ecosystem&nbsp;&nbsp;&gt;&gt;</a></div>
+        <a class="fw7" href="/does/not/exist">View the entire ecosystem&nbsp;&nbsp;&gt;&gt;</a></div>
     </div>
     <div class="flex mb2">
       <div class="mr4 mt2 w-40">
@@ -80,9 +80,9 @@
           <p class="lh-title">Get inspired by this showcase of IPFS apps, tools, and datasets.</p>
           <a class="fw7" href="https://awesome.ipfs.io" target="_blank">Awesome IPFS&nbsp;&nbsp;&gt;&gt;</a>
         </div>
-        <div class="w-33">
+        <div class="w-33" id="install">
           <p class="lh-title">Learn how IPFS integrates with Ethereum and other next-gen tech.</p>
-          <a class="fw7" href="/does/not/exist" id="install">IPFS + Ethereum &nbsp;&nbsp;&gt;&gt;</a>
+          <a class="fw7" href="/does/not/exist">IPFS + Ethereum &nbsp;&nbsp;&gt;&gt;</a>
         </div>
       </div>
     </div>
