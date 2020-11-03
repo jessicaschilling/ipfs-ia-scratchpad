@@ -14,7 +14,7 @@ module.exports = {
         items: [
           { text: 'Discussion/Support Forum', link: 'https://docs.ipfs.io' },
           { text: 'ProtoSchool', link: 'https://proto.school' },
-          { text: 'IPFS Repos', link: '/does/not/exist' },
+          { text: 'IPFS Repo Directory', link: '/does/not/exist' },
           { text: 'Teams & Community', link: 'https://docs.ipfs.io/community' },
           { text: 'How to Contribute', link: 'https://docs.ipfs.io/community/contribute/ways-to-contribute/' },
           { text: 'Newsletter', link: '/#newsletter' },

@@ -2,7 +2,7 @@
   <div class="center mw8 mv5">
     <h2 class="f1 ma0 pb3 bw0">About IPFS</h2>
     <p class="mt3 lh-title f3 fw4">
-      <span class="fw6">The InterPlanetary File System is many things:</span> It's an <a href="https://github.com/ipfs/ipfs">open-source</a> protocol for storing and serving data without relying on big corporations. It's a crucial part of <a href="/does/not/exist">apps and services</a> creating a faster, offline-tolerant, and more permanent internet. It's at the core of <a href="https://filecoin.io" target="_blank">Filecoin</a>. But at its heart, IPFS is here to make the web better for generations to come.
+      <span class="fw6">The InterPlanetary File System is many things:</span> It's an <a href="https://github.com/ipfs/ipfs">open-source protocol</a> for storing and serving data without relying on big corporations. It's a crucial part of <a href="/does/not/exist">apps and services</a> creating a faster, offline-tolerant, and more permanent internet. It's at the core of <a href="https://filecoin.io" target="_blank">Filecoin</a>. But at its heart, IPFS is here to make the web better for generations to come.
     </p>
     <div class="flex mt5 mb5">
       <div class="mr4 w-40">
@@ -12,12 +12,12 @@
         <p class="lh-title f4 mb1">
           This three-minute summary explains what IPFS is, the essentials of how it works, and how it has the potential to revolutionize the web.
         </p>
-        <p class="lh-title mt0 f6"><a href="https://docs.ipfs.io" target="_blank">Read the transcript</a></p>
+        <p class="lh-title mt0 f6"><a href="does/not/exist" target="_blank">Read the transcript</a></p>
       </div>
       <img class="w-60" src="/assets/img/video-placeholder.jpg">
     </div>
     <h3 class="f3 ma0 pa0">
-    Explore a sample IPFS app
+    Explore how IPFS works
     </h3>
     <p class="lh-title f4 mb1">
       There are many ways to make use of IPFS in apps and services &mdash; here's just one example to illustrate where IPFS fits in from the end user's experience all the way down to the core tech stack.

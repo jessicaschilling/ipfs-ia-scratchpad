@@ -23,7 +23,6 @@
     <h3 class="f3 ma0 pa0">
     Who's using IPFS
     </h3>
-
     <div class="bg-white pa3 mt3 mb5 f4">
       <div class="f5 h4 items-center lh-title flex justify-between pb3">
         <div class="mr3 f2 teal-muted">&lt;</div>
@@ -55,17 +54,34 @@
         </div>
         <a class="fw7" href="/does/not/exist">View the entire ecosystem&nbsp;&nbsp;&gt;&gt;</a></div>
     </div>
-    <div class="flex mb2">
-      <div class="mr4 mt2 w-40">
-        <h3 class="f3 ma0 pa0">
-        Real-world impact
-        </h3>
-        <p class="lh-title f4 mb1">
-          Get a two-minute overview of how IPFS can directly benefit some of the future's most vital industries &mdash; and meet the makers who are already realizing impact at a global scale.
-        </p>
-        <p class="lh-title mt0 f6"><a href="https://docs.ipfs.io" target="_blank">Read the transcript</a></p>
+    <h3 class="f3 ma0 pa0">
+    What people are building
+    </h3>
+    <p class="lh-title f4 mb1">
+      From revolutionizing content streaming to decentralizing massive datasets, organizations are using IPFS to directly benefit some of the future's most vital industries and realize impact at a global scale.
+    </p>
+    <div class="mt4 mb5 f4 ">
+      <div class="f5 h4 lh-title flex justify-between h-100">
+        <div class="pr4 w-25 tc h-100 mr3">
+          <img src="/assets/img/video-placeholder.jpg">
+          <div class="mt2"><strong>Audius</strong> is a streaming platform that enables musicians to monetize their work directly with listeners &mdash; made possible by IPFS and Ethereum.</div>
+        </div>
+        <div class="ph3 w-25 tc h-100 mr3">
+          <img src="/assets/img/video-placeholder.jpg">
+          <div class="mt2"><strong>Ion</strong>, Microsoft's decentralized identity service, stores transaction data on IPFS for inherent resiliency, validation, and future-proofing.</div>
+        </div>
+        <div class="ph3 w-25 tc h-100 mr3">
+          <img src="/assets/img/video-placeholder.jpg">
+          <div class="mt2"><strong>Arbol</strong> hosts more than 1T weather-related data points on IPFS, enabling tamper-proof parametric coverage against weather risk for farmers and others.</div>
+        </div>
+        <div class="pl4 w-25 tc h-100">
+          <img src="/assets/img/video-placeholder.jpg">
+          <div class="mt2"><strong>Berty</strong> is anonymous, secure messaging that works without internet access or cellular data, and IPFS enables them to realize concrete benefit XYZ.</div>
+        </div>
       </div>
-      <img class="w-60 mt2" src="/assets/img/video-placeholder.jpg">
+      <div class="tr mt4">
+        <a class="fw7 f5" href="https://docs.ipfs.io/concepts/usage-ideas-examples">See more use cases&nbsp;&nbsp;&gt;&gt;</a>
+      </div>
     </div>
     <div class="next-steps bg-white pa4 ba bw1 br3 b--gray-muted mt5">
       <h3 class="f3 ma0 pa0">
@@ -74,7 +90,7 @@
       <div class="flex mt2 justify-between">
         <div class="w-33 mr4">
           <p class="lh-title">See how others like you have successfully leveraged IPFS.</p>
-          <a class="fw7" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case studies &amp; use cases&nbsp;&nbsp;&gt;&gt;</a>
+          <a class="fw7" href="https://docs.ipfs.io/concepts/#examples-and-case-studies" target="_blank">Case studies&nbsp;&nbsp;&gt;&gt;</a>
         </div>
         <div class="w-33 mr4">
           <p class="lh-title">Get inspired by this showcase of IPFS apps, tools, and datasets.</p>
@@ -82,7 +98,7 @@
         </div>
         <div class="w-33" id="install">
           <p class="lh-title">Learn how IPFS integrates with Ethereum and other next-gen tech.</p>
-          <a class="fw7" href="/does/not/exist">IPFS + Ethereum &nbsp;&nbsp;&gt;&gt;</a>
+          <a class="fw7" href="/does/not/exist">IPFS + Ethereum&nbsp;&nbsp;&gt;&gt;</a>
         </div>
       </div>
     </div>

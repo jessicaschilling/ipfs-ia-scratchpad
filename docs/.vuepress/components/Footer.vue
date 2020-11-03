@@ -6,8 +6,8 @@
           <h2 class="bw0 f3 mv0">Stay informed</h2>
           <p class="mt1 fw4">Sign up for the IPFS Weekly newsletter (<a href="/blog-post">example</a>) for the latest on releases, upcoming developments, community events, and more.</p>
         </div>
-        <div class="w-40 tr">
-          <input type="text" class="w-70 pa1" id="newsletter" name="newsletter" placeholder="email@your.domain">
+        <div class="w-40 tr" id="newsletter">
+          <input type="text" class="w-70 pa1" name="newsletter" placeholder="email@your.domain">
           <a class="button-primary f6 link glow o-80 ph3 pv2 br2 dib white bg-teal ml2" href="https://docs.google.com/document/d/1ni0kQNTLJ8VcpCu-zvpyWceZ3qbZWTJSJVRLCsOxvbY/edit#" target="_blank">Subscribe</a>
         </div>
       </div>
