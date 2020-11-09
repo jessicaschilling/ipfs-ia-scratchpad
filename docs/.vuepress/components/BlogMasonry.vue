@@ -211,8 +211,11 @@
 
     <div id="modal-video" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
       <div class="absolute pa4 bg-white">
-        <a href="#install" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
-        <div class="mt3">
+        <a href="#" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
+        <div class="mt1">
+          <p class="pa0 mt0 mb3 f4 lh-title montserrat">
+            <a href="" class="fw6">Lorem ipsum sit</a>
+          </p>
           <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
           <p class="lh-title mb2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pulvinar velit.</p>
           <p class="lh-title i f6 charcoal-muted mt0">Published 24 November 2020</p>
