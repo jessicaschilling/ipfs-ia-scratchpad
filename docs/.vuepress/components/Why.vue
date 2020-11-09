@@ -63,20 +63,20 @@
     <div class="mt4 mb5 f4 ">
       <div class="f5 h4 lh-title flex justify-between h-100">
         <div class="pr4 w-25 tc h-100 mr3">
-          <img src="/assets/img/video-placeholder.jpg">
-          <div class="mt2"><strong>Audius</strong> is a streaming platform that enables musicians to monetize their work directly with listeners &mdash; made possible by IPFS and Ethereum.</div>
+          <a href="#modal-video"><img src="/assets/img/video-placeholder.jpg"></a>
+          <div class="mt2"><a href="#modal-video" class="fw7">Audius</a> is a streaming platform that enables musicians to monetize their work directly with listeners &mdash; made possible by IPFS and Ethereum.</div>
         </div>
         <div class="ph3 w-25 tc h-100 mr3">
-          <img src="/assets/img/video-placeholder.jpg">
-          <div class="mt2"><strong>Ion</strong>, Microsoft's decentralized identity service, stores transaction data on IPFS for inherent resiliency, validation, and future-proofing.</div>
+          <a href="#modal-video"><img src="/assets/img/video-placeholder.jpg"></a>
+          <div class="mt2"><a href="#modal-video" class="fw7">Ion</a>, Microsoft's decentralized identity service, stores transaction data on IPFS for inherent resiliency, validation, and future-proofing.</div>
         </div>
         <div class="ph3 w-25 tc h-100 mr3">
-          <img src="/assets/img/video-placeholder.jpg">
-          <div class="mt2"><strong>Arbol</strong> hosts more than 1T weather-related data points on IPFS, enabling tamper-proof parametric coverage against weather risk for farmers and others.</div>
+          <a href="#modal-video"><img src="/assets/img/video-placeholder.jpg"></a>
+          <div class="mt2"><a href="#modal-video" class="fw7">Arbol</a> hosts more than 1T weather-related data points on IPFS, enabling tamper-proof parametric coverage against weather risk for farmers and others.</div>
         </div>
         <div class="pl4 w-25 tc h-100">
-          <img src="/assets/img/video-placeholder.jpg">
-          <div class="mt2"><strong>Berty</strong> is anonymous, secure messaging that works without internet access or cellular data, and IPFS enables them to realize concrete benefit XYZ.</div>
+          <a href="#modal-video"><img src="/assets/img/video-placeholder.jpg"></a>
+          <div class="mt2"><a href="#modal-video" class="fw7">Berty</a> is anonymous, secure messaging that works without internet access or cellular data, and IPFS enables them to realize concrete benefit XYZ.</div>
         </div>
       </div>
       <div class="tr mt4">
@@ -104,10 +104,60 @@
     </div>
   </div>
 
+  <div id="modal-video" class="modal-window fixed top-0 right-0 bottom-0 left-0 z-999">
+    <div class="absolute pa4 bg-white">
+      <a href="#why" title="Close" class="mt3 mr3 tr absolute top-0 right-0 no-underline f4">X</a>
+      <div class="mt1">
+        <p class="pa0 mt0 mb3 f4 lh-title montserrat">
+          <a href="" class="fw6">What people are building: Audius</a>
+        </p>
+        <a href="#modal-video"><img class="db w-100" src="/assets/img/video-placeholder.jpg"></a>
+        <p class="lh-title mb2"><strong>Audius</strong> is a streaming platform that enables musicians to monetize their work directly with listeners &mdash; made possible by IPFS and Ethereum.</p>
+        <p class="lh-title i f6 charcoal-muted mt0">Published 24 November 2020</p>
+        <div>
+          <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow"><a href="">video</a></span>
+          <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow"><a href="">#foo</a></span>
+          <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow"><a href="">#bar</a></span>
+          <span class="f6 glow o-80 ph2 pv1 br3 dib bg-snow"><a href="">#baz</a></span>
+        </div>
+        <div class="lh-title f6 charcoal-muted mv0 flex items-center">
+          Share this item:
+          <a href="http://twitter.com/ipfs" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="22" class="mr2" fill="#aaa" viewBox="0 0 34 34" id="twitter-icon"><path d="M13.055 25.636c8.016 0 12.402-6.647 12.402-12.402 0-.187 0-.374-.009-.56a8.88 8.88 0 002.176-2.262 8.834 8.834 0 01-2.507.689 4.385 4.385 0 001.92-2.414 8.67 8.67 0 01-2.77 1.054 4.35 4.35 0 00-3.18-1.377 4.364 4.364 0 00-4.36 4.36c0 .34.043.672.11.995a12.377 12.377 0 01-8.984-4.556 4.37 4.37 0 001.351 5.823 4.409 4.409 0 01-1.971-.545v.06a4.368 4.368 0 003.493 4.275 4.25 4.25 0 01-1.147.153c-.28 0-.553-.025-.816-.076a4.358 4.358 0 004.071 3.026 8.742 8.742 0 01-5.414 1.87c-.349 0-.697-.017-1.037-.06a12.398 12.398 0 006.672 1.947z"></path></svg></a>
+          <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="14" class="mr2" fill="#aaa" viewBox="0 0 24 24"><path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/></svg></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 </template>
 
 <style lang="stylus" scoped>
+
+.modal-window {
+  background-color: rgba(0, 0, 0, 0.25);
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s;
+  &:target {
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+  }
+  &>div {
+    width: 60vw;
+    max-width:640px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.modal-window div:not(:last-of-type) {
+  margin-bottom: 15px;
+}
+
 img.desaturate {
 	filter: grayscale(100%);
 }
