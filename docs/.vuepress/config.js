@@ -16,6 +16,7 @@ module.exports = {
           { text: 'ProtoSchool', link: 'https://proto.school' },
           { text: 'IPFS Repo Guide', link: '/does/not/exist' },
           { text: 'Teams & Community', link: 'https://docs.ipfs.io/community' },
+          { text: 'Awesome IPFS', link: 'https://awesome.ipfs.io' },
           { text: 'How to Contribute', link: 'https://docs.ipfs.io/community/contribute/ways-to-contribute/' },
           { text: 'Newsletter', link: '/#newsletter' },
           { text: 'Press Kit', link: '/press' }
