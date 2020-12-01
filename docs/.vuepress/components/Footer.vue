@@ -6,10 +6,34 @@
           <h2 class="bw0 f3 mv0">Stay informed</h2>
           <p class="mt1 fw4">Sign up for the IPFS Weekly newsletter (<a href="/blog-post">example</a>) for the latest on releases, upcoming developments, community events, and more.</p>
         </div>
-        <div class="w-40 tr" id="newsletter">
-          <input type="text" class="w-70 pa1" name="newsletter" placeholder="email@your.domain">
-          <a class="button-primary f6 link glow o-80 ph3 pv2 br2 dib white bg-teal ml2" href="https://docs.google.com/document/d/1ni0kQNTLJ8VcpCu-zvpyWceZ3qbZWTJSJVRLCsOxvbY/edit#" target="_blank">Subscribe</a>
+        <div class="w-40" id="newsletter">
+
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup" class="pt3">
+  <form action="https://ipfs.us4.list-manage.com/subscribe/post?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" class="flex items-center mb1">
+      <div class="mc-field-group mr2 w-80">
+        <input type="email" aria-label="Email Address" class="pa1 w-100" placeholder="email@your.domain" value="" name="EMAIL" id="mce-EMAIL">
+      </div>
+      <div id="mergeRow-gdpr">
+          <div>
+            <fieldset class="mc_fieldset gdprRequired mc-field-group bn ma0 pa0" name="interestgroup_field">
+            </fieldset>
+          </div>
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_25473244c7d18b897f5a1ff6b_cad54b2230" tabindex="-1" value=""></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
         </div>
+        <div>
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button-primary f6 glow o-80 ph3 pv2 br2 dib white bg-teal ml2 bn dib">
+        </div>
+    </div>
+    <label class="checkbox subfield" for="gdpr_28879">
+      <input type="checkbox" class="mr2" id="gdpr_28879" name="gdpr[28879]" value="Y"><span class="f6 charcoal-muted i">Please send me the newsletter</span>
+    </label>
+  </form>
+</div>
+<!--End mc_embed_signup-->
+
+         </div>
       </div>
       <div class="flex items-center mb4 mt3 justify-between">
         <div class="flex">
