@@ -26,7 +26,7 @@ IPFS (the InterPlanetary File System) is a peer-to-peer network and protocol des
 
 ### IPFS and Filecoin
 
-For details on understanding the relationship between IPFS and Filecoin, please visit <a href="#">this explainer</a>.
+For details on understanding the relationship between IPFS and Filecoin, please visit <a href="https://docs.filecoin.io/about-filecoin/ipfs-and-filecoin">this explainer</a>.
 
 ## The IPFS ecosystem
 
