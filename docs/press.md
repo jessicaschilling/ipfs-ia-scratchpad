@@ -22,7 +22,7 @@ Feel free to reprint the information in this section in its entirety without exp
 IPFS (the Inter Planetary File System) is lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis porttitor tellus, eu finibus arcu dapibus at. Phasellus eget pulvinar turpis. Pellentesque ullamcorper risus ac ipsum tempus posuere. Suspendisse pulvinar massa nunc, sit amet gravida tortor molestie et. Nam faucibus erat ut ligula semper, vel bibendum dui sodales. Donec et efficitur arcu. Nunc placerat vitae tellus vitae consectetur. Cras bibendum lobortis elit, eget maximus nulla finibus vitae. Quisque imperdiet turpis non elementum eleifend. Pellentesque fermentum ex mi. Suspendisse vestibulum ante a est posuere, luctus molestie augue placerat. Pellentesque volutpat, lectus a vulputate consectetur, sapien leo aliquam justo, et faucibus turpis libero in massa. Aenean quis faucibus ipsum. Phasellus ac ligula sollicitudin, mattis eros vitae, aliquet ligula. **(xxx words)**
 
 ### Short description
-IPFS (the Inter Planetary File System) is lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis porttitor tellus, eu finibus arcu dapibus at. Phasellus eget pulvinar turpis. Pellentesque ullamcorper risus ac ipsum tempus posuere. Suspendisse pulvinar massa nunc, sit amet gravida tortor molestie et. Nam faucibus erat ut ligula semper, vel bibendum dui sodales. **(xxx words)**
+IPFS (the InterPlanetary File System) is a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open. IPFS addresses files based on content, not location. **(150 characters/26 words)**
 
 ### IPFS and Filecoin
 
